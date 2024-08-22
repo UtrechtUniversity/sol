@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stacks on Stacks"
+  navbar:
+    background: "#FFCD00"
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd
+  page-footer: 
+    background: black
+    left: © CC-BY 4.0
+    right: Built with [Quarto](https://quarto.org/){target=_blank} & [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/UtrechtUniversity/stacks-on-stacks){target=_blank}. Maintained with {{< fa heart title="a heart" >}} & {{< fa mug-saucer title="a coffee" >}}.
+    
+  comments:
+    hypothesis: true
+    
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/theme-light.scss]
+      dark: [cosmo, styles/theme-dark.scss]
+    toc: true
+
+
+
