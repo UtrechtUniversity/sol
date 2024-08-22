@@ -2,4 +2,10 @@
 title: "About"
 ---
 
-About this site
+_Stacks on Stacks_ is a microblog maintained by RDS @ Utrecht University Library
+
+The name _Stacks on Stacks_ refers to the structured information and physical composition of the library.
+
+Information on library activies, events, and goings on, will be posted here with some frequency.
+
+You can interact with these posts via [Hypothes.is](https://web.hypothes.is/)
