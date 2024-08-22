@@ -1,0 +1,25 @@
+---
+title: "Test Post 3"
+description: |
+  This is an example of the kind of description that will end up on the main page of the news feed. Remember to keep the above line and the approximate tab.
+author: Dan Rudmann
+date: last-modified
+---
+
+What is going on?
+
+Where is it happening?
+
+Who is involved?
+
+##  Hello
+
+### This is a test
+
+#### How does it look?
+
+Some more body text here just to give an idea
+
+![image description](https://images.adsttc.com/media/images/5012/102f/28ba/0d55/8100/044b/medium_jpg/stringio.jpg?1414478650)
+
+Some more text. The end.
