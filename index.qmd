@@ -1,6 +1,6 @@
+![Utrecht University Library @Utrecht Science Park, copyright: Mark Hadden](https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg)
+
 ---
 title: "Structured Knowledge"
-subtitle: "A microblog at Utrecht University Library"
+subtitle: "Open documentation from Research Data Services at Utrecht University Library."
 ---
-
-![Utrecht University Library @Utrecht Science Park, copyright: Mark Hadden](https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg)
