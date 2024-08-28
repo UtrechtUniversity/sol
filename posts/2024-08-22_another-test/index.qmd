@@ -1,25 +1,34 @@
 ---
-title: "Test Post 3"
+title: "An Introduction to Research Data Services"
 description: |
-  This is an example of the kind of description that will end up on the main page of the news feed. Remember to keep the above line and the approximate tab.
-author: Dan Rudmann, A Giant Frog
+
+author: The Research Data Services Team
 date: last-modified
 ---
 
-What is going on?
+RDS works to facilitate culture change in research toward more Open & FAIR practices. 
 
-Where is it happening?
+RDS fulfills this vision by centering transparency, working in a way that reflects the processes we promote. As a service department, our goal is to empower the people we work with to realise their own agency and sovereignty in bringing about change in research practices and culture. 
 
-Who is involved?
+In order to meet the shared goal of our office, RDS engages in intersecting activities: 
 
-##  Hello
+### Guidance 
 
-### This is a test
+RDS at the UB is an expertise center for developing practices related to research processes and data management within Utrecht University. We offer advice to researchers, inform administrative policy, and share knowledge with colleagues to bring about a wider understanding of diverse perspectives and actions that align research practices with our organisational mission. 
 
-#### How does it look?
+### Training 
 
-Some more body text here just to give an idea
+RDS translates its knowledge into a series of workshops and training sessions that are offered at the university libraries. We organise and teach those sessions to work with researchers on issues in research software management, research data, and their related digital competencies. Trainings are offered both in-person and as persistent online modules.  
 
-![image description](https://images.adsttc.com/media/images/5012/102f/28ba/0d55/8100/044b/medium_jpg/stringio.jpg?1414478650)
+### Community 
 
-Some more text. The end.
+Engendering cooperation is at the core of RDS efforts. We bring people together, both within and across organisational boundaries, to exchange knowledge by identifying and supporting judicious connections. RDS focuses simultaneously on the content of research processes and the experience of facilitating change. 
+
+### Infrastructure 
+
+RDS tends a knowledge base on technical infrastructure that supports research processes. We leverage our embedded positions to surface researcher needs and communicate those to developers to improve technical capabilities. Simultaneously, RDS stewards the social infrastructure that promotes community-led progress in research processes. 
+
+### Meta-Science 
+
+RDS team members are thought leaders in research processes and help increase collective literacy on pressing issues in open science. We explore emerging trends in research intelligence, research information, and bibliometrics, along with their relation to data. 
+
