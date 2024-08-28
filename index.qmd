@@ -6,10 +6,3 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-
-![Utrecht University Library @Utrecht Science Park, copyright: Mark Hadden](https://cdn.archilovers.com/projects/b_730_d55077e241fa430ca25bb6cffd823724.jpg)
-
----
-title: "Structured Knowledge"
-subtitle: "Open documentation from Research Data Services at Utrecht University Library."
----
