@@ -2,16 +2,9 @@
   {
     "objectID": "posts/2024-08-22_another-test/index.html",
     "href": "posts/2024-08-22_another-test/index.html",
-    "title": "Test Post 3",
+    "title": "An Introduction to Research Data Services",
     "section": "",
-    "text": "What is going on?\nWhere is it happening?\nWho is involved?"
-  },
-  {
-    "objectID": "posts/2024-08-22_another-test/index.html#hello",
-    "href": "posts/2024-08-22_another-test/index.html#hello",
-    "title": "Test Post 3",
-    "section": "Hello",
-    "text": "Hello\n\nThis is a test\n\nHow does it look?\nSome more body text here just to give an idea\n\n\n\nimage description\n\n\nSome more text. The end."
+    "text": "RDS works to facilitate culture change in research toward more Open & FAIR practices.\nRDS fulfills this vision by centering transparency, working in a way that reflects the processes we promote. As a service department, our goal is to empower the people we work with to realise their own agency and sovereignty in bringing about change in research practices and culture.\nIn order to meet the shared goal of our office, RDS engages in intersecting activities:\n\nGuidance\nRDS at the UB is an expertise center for developing practices related to research processes and data management within Utrecht University. We offer advice to researchers, inform administrative policy, and share knowledge with colleagues to bring about a wider understanding of diverse perspectives and actions that align research practices with our organisational mission.\n\n\nTraining\nRDS translates its knowledge into a series of workshops and training sessions that are offered at the university libraries. We organise and teach those sessions to work with researchers on issues in research software management, research data, and their related digital competencies. Trainings are offered both in-person and as persistent online modules.\n\n\nCommunity\nEngendering cooperation is at the core of RDS efforts. We bring people together, both within and across organisational boundaries, to exchange knowledge by identifying and supporting judicious connections. RDS focuses simultaneously on the content of research processes and the experience of facilitating change.\n\n\nInfrastructure\nRDS tends a knowledge base on technical infrastructure that supports research processes. We leverage our embedded positions to surface researcher needs and communicate those to developers to improve technical capabilities. Simultaneously, RDS stewards the social infrastructure that promotes community-led progress in research processes.\n\n\nMeta-Science\nRDS team members are thought leaders in research processes and help increase collective literacy on pressing issues in open science. We explore emerging trends in research intelligence, research information, and bibliometrics, along with their relation to data."
   },
   {
     "objectID": "posts/2024-08-22_test/index.html",
@@ -25,7 +18,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Test Post 1\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non risus nec ligula ullamcorper sagittis. Donec non molestie nisi. Sed condimentum scelerisque est id tempor. \n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 3\n\n\n\n\n\nThis is an example of the kind of description that will end up on the main page of the news feed. Remember to keep the above line and the approximate tab. \n\n\n\n\n\nAug 28, 2024\n\n\nDan Rudmann, A Giant Frog\n\n\n\n\n\n\nNo matching items"
+    "text": "Test Post 1\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non risus nec ligula ullamcorper sagittis. Donec non molestie nisi. Sed condimentum scelerisque est id tempor. \n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to Research Data Services\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -39,7 +32,7 @@
     "href": "index.html",
     "title": "Structured Knowledge",
     "section": "",
-    "text": "Utrecht University Library @Utrecht Science Park, copyright: Mark Hadden"
+    "text": "Utrecht University Library @Utrecht Science Park, copyright: Mark Hadden\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 1\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non risus nec ligula ullamcorper sagittis. Donec non molestie nisi. Sed condimentum scelerisque est id tempor. \n\n\n\n\n\nAug 28, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to Research Data Services\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-08-23_test/index.html",
