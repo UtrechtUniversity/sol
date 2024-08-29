@@ -3,7 +3,7 @@ title: "An Introduction to Research Data Services"
 description: |
 
 author: The Research Data Services Team
-date: last-modified
+date: 28 August 2024
 ---
 
 RDS works to facilitate culture change in research toward more Open & FAIR practices. 
