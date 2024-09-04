@@ -29,3 +29,5 @@ In addition, each Programming Café will have a special theme. This is typically
 Who can attend
  
 Everyone is welcome at the Programming Café! You can be of any skill level and at any stage in working with your code and data. While many attendees will be R or Python users, people interested in other programming languages and software are invited as well.
+
+Full information can be found at (uu.nl/rdm)[https://www.uu.nl/en/events/programming-cafe-12-september-2024]
