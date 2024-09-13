@@ -2,19 +2,19 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2024-08-22_test/index.html",
       "/posts/2024-08-23_test/index.html",
-      "/posts/2024-09-03/2024-09-03.html",
-      "/posts/2024-08-22_another-test/index.html"
+      "/posts/2024-08-22_another-test/index.html",
+      "/posts/2024-08-22_test/index.html",
+      "/posts/2024-09-03/2024-09-03.html"
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/archive.html",
     "items": [
-      "/posts/2024-08-22_test/index.html",
       "/posts/2024-08-23_test/index.html",
-      "/posts/2024-09-03/2024-09-03.html",
-      "/posts/2024-08-22_another-test/index.html"
+      "/posts/2024-08-22_another-test/index.html",
+      "/posts/2024-08-22_test/index.html",
+      "/posts/2024-09-03/2024-09-03.html"
     ]
   }
 ]

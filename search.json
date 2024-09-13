@@ -1,45 +1,24 @@
 [
   {
-    "objectID": "posts/2024-08-22_another-test/index.html",
-    "href": "posts/2024-08-22_another-test/index.html",
-    "title": "An Introduction to Research Data Services",
-    "section": "",
-    "text": "RDS works to facilitate culture change in research toward more Open & FAIR practices.\nRDS fulfills this vision by centering transparency, working in a way that reflects the processes we promote. As a service department, our goal is to empower the people we work with to realise their own agency and sovereignty in bringing about change in research practices and culture.\nIn order to meet the shared goal of our office, RDS engages in intersecting activities:\n\nGuidance\nRDS at the UB is an expertise center for developing practices related to research processes and data management within Utrecht University. We offer advice to researchers, inform administrative policy, and share knowledge with colleagues to bring about a wider understanding of diverse perspectives and actions that align research practices with our organisational mission.\n\n\nTraining\nRDS translates its knowledge into a series of workshops and training sessions that are offered at the university libraries. We organise and teach those sessions to work with researchers on issues in research software management, research data, and their related digital competencies. Trainings are offered both in-person and as persistent online modules.\n\n\nCommunity\nEngendering cooperation is at the core of RDS efforts. We bring people together, both within and across organisational boundaries, to exchange knowledge by identifying and supporting judicious connections. RDS focuses simultaneously on the content of research processes and the experience of facilitating change.\n\n\nInfrastructure\nRDS tends a knowledge base on technical infrastructure that supports research processes. We leverage our embedded positions to surface researcher needs and communicate those to developers to improve technical capabilities. Simultaneously, RDS stewards the social infrastructure that promotes community-led progress in research processes.\n\n\nMeta-Science\nRDS team members are thought leaders in research processes and help increase collective literacy on pressing issues in open science. We explore emerging trends in research intelligence, research information, and bibliometrics, along with their relation to data."
-  },
-  {
-    "objectID": "posts/2024-08-23_test/index.html",
-    "href": "posts/2024-08-23_test/index.html",
-    "title": "Test Post 2",
-    "section": "",
-    "text": "Aliquam molestie, mi quis sollicitudin lacinia, massa sem malesuada est, sit amet dictum arcu lectus vel magna. In et posuere magna. Etiam finibus diam libero, in venenatis erat dignissim at. Aenean tincidunt dictum ultricies. Nam in turpis bibendum nulla dictum finibus vel efficitur quam."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stacks on Stacks",
-    "section": "",
-    "text": "Test Post 1\n\n\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non risus nec ligula ullamcorper sagittis. Donec non molestie nisi. Sed condimentum scelerisque est id tempor. \n\n\n\n\n\nSep 4, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to Research Data Services\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Stacks on Stacks is a microblog maintained by RDS @ Utrecht University Library\nThe name Stacks on Stacks refers to the structured information and physical composition of the library.\nInformation on library activies, events, and goings on, will be posted here with some frequency.\nYou can interact with these posts via Hypothes.is\n\n\n\nUtrecht University Library @Utrecht Science Park, copyright: Mark Hadden"
+    "text": "Structured Information is a microblog maintained by RDS @ Utrecht University Library\nInformation on library activies, events, and goings on, will be posted here with some frequency.\nYou can interact with these posts via Hypothes.is\n\n\n\nUtrecht University Library @Utrecht Science Park, copyright: Mark Hadden"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Structured Information",
     "section": "",
-    "text": "Test Post 1\n\n\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nTest Post 2\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non risus nec ligula ullamcorper sagittis. Donec non molestie nisi. Sed condimentum scelerisque est id tempor. \n\n\n\n\n\nSep 4, 2024\n\n\nNeha Moopen\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\n\n\n\n\n\n\nAn Introduction to Research Data Services\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
+    "text": "Programming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2024-08-22_test/index.html",
-    "href": "posts/2024-08-22_test/index.html",
-    "title": "Test Post 1",
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
     "section": "",
-    "text": "fsdsdfsdfnhjujuukusdfsdfd\nyoohoooood"
+    "text": "Programming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-09-03/2024-09-03.html",

@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/posts/2024-08-22_another-test/index.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/posts/2024-08-23_test/index.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
+    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/about.html</loc>
+    <lastmod>2024-09-13T11:33:01.046Z</lastmod>
   </url>
   <url>
     <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/index.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
+    <lastmod>2024-09-13T11:33:01.046Z</lastmod>
   </url>
   <url>
-    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/about.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/posts.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/posts/2024-08-22_test/index.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
+    <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/archive.html</loc>
+    <lastmod>2024-09-13T11:33:01.046Z</lastmod>
   </url>
   <url>
     <loc>https://UtrechtUniversity.github.io/stacks-on-stacks/posts/2024-09-03/2024-09-03.html</loc>
-    <lastmod>2024-09-04T09:04:07.008Z</lastmod>
+    <lastmod>2024-09-13T11:33:01.046Z</lastmod>
   </url>
 </urlset>
