@@ -14,7 +14,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - posts.qmd
   page-footer: 
     background: black
     left: © CC-BY 4.0
