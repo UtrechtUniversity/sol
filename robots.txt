@@ -1,1 +1,1 @@
-Sitemap: https://UtrechtUniversity.github.io/stacks-on-stacks/sitemap.xml
+Sitemap: https://UtrechtUniversity.github.io/structure/sitemap.xml
