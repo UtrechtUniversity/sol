@@ -1,8 +1,8 @@
----
+e---
 title: "About"
 ---
 
-_Structured Information_ is a microblog maintained by RDS @ Utrecht University Library
+_Structured Information_ is a microblog maintained by Research Data Services at Utrecht University Library
 
 Information on library activies, events, and goings on, will be posted here with some frequency.
 
