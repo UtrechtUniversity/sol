@@ -5,8 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Structured Information"
-  subtitle: "at Utrecht University Library"
+  title: "Structured Information at Utrecht University Library"
   navbar:
     background: "#FFCD00"
     search: true
@@ -14,6 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - archive.qmd
   page-footer: 
     background: black
     left: © CC-BY 4.0
