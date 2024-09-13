@@ -1,1 +1,1 @@
-# Stacks on Stacks
+# Structured Information #
