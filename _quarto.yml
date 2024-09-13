@@ -6,7 +6,6 @@ execute:
 
 website:
   title: "Structured Information"
-  subtitle: "at Utrecht University Library"
   navbar:
     background: "#FFCD00"
     search: true
