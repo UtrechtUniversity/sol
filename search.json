@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/2024-09-03/2024-09-03.html",
+    "href": "posts/2024-09-03/2024-09-03.html",
+    "title": "Programming Café, September 2024",
     "section": "",
-    "text": "Structured Information is a microblog maintained by Research Data Services at Utrecht University Library\nInformation on library activies, events, and goings on will be posted here with some frequency.\nYou can interact with these posts via Hypothes.is\n\n\n\nUtrecht University Library @Utrecht Science Park, copyright: Mark Hadden"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Structured Information",
-    "section": "",
-    "text": "Programming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
+    "text": "Event Time and date: 12 September 2024 - 15 to 17hr Location: Bucheliuszaal 6.18, Universiteitsbibliotheek (Utrecht Science Park)\nDo you want to improve your programming skills, meet colleagues interested in coding, or ask questions related to research software? Pick up your laptop and come to the Programming Café!\nIn this monthly meet-up, we will share knowledge about programming through short presentations, work on software projects, and help each other with challenges in working with code and data.\nThis month’s theme: Introducing iBridges\nDo you already use Yoda to store your data? Would you like to find out what else the system can do?\nIn this talk, we will demonstrate how to leverage the full potential of Yoda through a new tool box called iBridges. iBridges consists of a python library to easily program against data, a command line tool for streamlined uploading and downloading of data, and a graphical user interface to enhance the experience of using Yoda. We will present a compute workflow that uses data in Yoda, generates results, and levels them with data. Subsequently, the results can be found by a non-programming user employing the GUI and downloading the results of the compute workflow. Join us to explore the functionality hidden inside of Yoda.\nWhat to expect\nDuring the Programming Café, you can work on your own project and share knowledge in a community setting. You can also bring your programming questions, bugs, and problems to discuss or resolve with members of Information Technology Support, Research Data Services, and researchers attending the café. In addition, each Programming Café will have a special theme. This is typically a short presentation or demonstration of (maximum) half an hour. We are always looking for suggestions on themes and people who want to present something. Don’t hesitate to send an email to info.rdm@uu.nl if you want to provide a suggestion or give a presentation!\nWho can attend\nEveryone is welcome at the Programming Café! You can be of any skill level and at any stage in working with your code and data. While many attendees will be R or Python users, people interested in other programming languages and software are invited as well.\nFull information can be found at (uu.nl/rdm)[https://www.uu.nl/en/events/programming-cafe-12-september-2024]"
   },
   {
     "objectID": "archive.html",
@@ -21,10 +14,17 @@
     "text": "Programming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2024-09-03/2024-09-03.html",
-    "href": "posts/2024-09-03/2024-09-03.html",
-    "title": "Programming Café, September 2024",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Structured Information",
     "section": "",
-    "text": "Event Time and date: 12 September 2024 - 15 to 17hr Location: Bucheliuszaal 6.18, Universiteitsbibliotheek (Utrecht Science Park)\nDo you want to improve your programming skills, meet colleagues interested in coding, or ask questions related to research software? Pick up your laptop and come to the Programming Café!\nIn this monthly meet-up, we will share knowledge about programming through short presentations, work on software projects, and help each other with challenges in working with code and data.\nThis month’s theme: Introducing iBridges\nDo you already use Yoda to store your data? Would you like to find out what else the system can do?\nIn this talk, we will demonstrate how to leverage the full potential of Yoda through a new tool box called iBridges. iBridges consists of a python library to easily program against data, a command line tool for streamlined uploading and downloading of data, and a graphical user interface to enhance the experience of using Yoda. We will present a compute workflow that uses data in Yoda, generates results, and levels them with data. Subsequently, the results can be found by a non-programming user employing the GUI and downloading the results of the compute workflow. Join us to explore the functionality hidden inside of Yoda.\nWhat to expect\nDuring the Programming Café, you can work on your own project and share knowledge in a community setting. You can also bring your programming questions, bugs, and problems to discuss or resolve with members of Information Technology Support, Research Data Services, and researchers attending the café. In addition, each Programming Café will have a special theme. This is typically a short presentation or demonstration of (maximum) half an hour. We are always looking for suggestions on themes and people who want to present something. Don’t hesitate to send an email to info.rdm@uu.nl if you want to provide a suggestion or give a presentation!\nWho can attend\nEveryone is welcome at the Programming Café! You can be of any skill level and at any stage in working with your code and data. While many attendees will be R or Python users, people interested in other programming languages and software are invited as well.\nFull information can be found at (uu.nl/rdm)[https://www.uu.nl/en/events/programming-cafe-12-september-2024]"
+    "text": "Programming Café, September 2024\n\n\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nThe Research Data Services Team\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Structured Information is a microblog maintained by Research Data Services at Utrecht University Library\nInformation on library activies, events, and goings on will be posted here with some frequency.\nYou can interact with these posts via Hypothes.is\n\n\n\nUtrecht University Library @Utrecht Science Park, copyright: Mark Hadden"
   }
 ]
