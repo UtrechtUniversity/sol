@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Structured Information at Utrecht University Library"
+  title: "Structured Information"
   navbar:
     background: "#FFCD00"
     search: true
