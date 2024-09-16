@@ -1,13 +1,15 @@
 [
   {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/2024-09-16/2024-09-16.html",
       "/posts/2024-09-03/2024-09-03.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/archive.html",
     "items": [
+      "/posts/2024-09-16/2024-09-16.html",
       "/posts/2024-09-03/2024-09-03.html"
     ]
   }
