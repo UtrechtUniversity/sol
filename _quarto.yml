@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Structured Information"
+  title: "Sol"
   navbar:
     background: "#FFCD00"
     search: true
