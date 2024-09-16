@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-_Structured Information_ is a microblog maintained by Research Data Services at Utrecht University Library
+_Sol_ is a microblog maintained by Research Data Services at Utrecht University Library
 
-Information on library activies, events, and goings on will be posted here with some frequency.
+Structured information documenting library activites will be posted here with some frequency.
 
 You can interact with these posts via [Hypothes.is](https://web.hypothes.is/)
 
