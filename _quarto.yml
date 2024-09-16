@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Sol"
+  title: "Sol @ Utrecht University Library"
   navbar:
     background: "#FFCD00"
     search: true
