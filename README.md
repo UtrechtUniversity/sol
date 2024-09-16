@@ -1,1 +1,1 @@
-# Structured Information #
+# Sol #
