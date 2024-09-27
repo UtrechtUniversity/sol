@@ -1,0 +1,43 @@
+---
+title: "Newsletter RDM Support - June 2024"
+description: |
+
+author: Dafne Jansen
+date: 26 June 2024
+---
+## Awards & Grants ##
+
+### Ron Scholten Wins SURF Research Support Champion Award ###
+Ron Scholten received the Research Support Champion Award 2024 for his outstanding work on the YOUth project as well as for his work on Yoda. The jury describes Ron Scholten as pivotal in the YOUth study, where he ensures the storage, validation, and careful provision of sensitive data about young children.
+[Read more about the outstanding work of Ron.](https://www.uu.nl/en/in-de-media/ron-scholten-wins-surf-research-support-champion-award?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A//www.uu.nl/en/in-the-media/ron-scholten-wins-surf-research-support-champion-award)
+
+### Rens van der Schoot Receives a Vici Grant ###
+Rens van der Schoot received a Vici-grant, the prestigious NWO grant to expand his work on ASReview. Rens van de Schoot emphasises that this award is team science in optima forma. "ITS and the university library should also be recognised in this: without them, this project would be nowhere."
+[Read more about the team effort leading to the grant.](https://www.uu.nl/en/news/vici-grant-for-research-into-reliable-ai-supported-literature-reviews?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fvici-grant-for-research-into-reliable-ai-supported-literature-reviews)
+
+## How to be FAIR ##
+
+### Latest FAIR Story About Cognitive Mapping Published ###
+In this interview, Femke van Esch tells us about Cognitive Mapping, a method for mapping people's beliefs and reasoning. The previously complicated method was made more user-friendly by developing the new software CognitiveMapr for which she received a grant from the FAIR Research IT Innovation Fund. There are more projects that received a grant from the fund, such as Kees Klein Goldewijk's [HYDE database.](https://www.uu.nl/en/news/the-hyde-portal-makes-the-history-of-land-use-both-accessible-and-visible?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthe-hyde-portal-makes-the-history-of-land-use-both-accessible-and-visible)
+[Learn more about cognitive mapping.](https://www.uu.nl/en/news/this-software-makes-the-powerful-research-method-cognitive-mapping-much-simpler?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthis-software-makes-the-powerful-research-method-cognitive-mapping-much-simpler)
+
+### FAIR Cheat Sheets have been Published ###
+Finding your way around the FAIR principles may prove to be a little daunting. That is why science historian and philosopher Susanna Bloem made grateful use of the FAIR Cheatsheets developed by experts from the Utrecht University Open Science Programme and RDM Support in consultation with researchers from several faculties. Read all about how she used this useful checklist to see if her data and code adhered to the FAIR principles.
+[Learn more about FAIR Cheat Sheets](https://www.uu.nl/en/news/the-fair-cheatsheet-helps-me-to-publish-my-research-data-in-an-open-way?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthe-fair-cheatsheet-helps-me-to-publish-my-research-data-in-an-open-way)
+
+## As Good as New ##
+
+### Data Odyssey project at Geo ###
+Remember the times of the floppy disks? Zip drives? CD-ROMS? It seems ages ago, but the data on these carriers are still valuable. The Geo Data Team managed to retrieve the data from these outdated data carriers and opened up the research data that Martin Wassen had collected for over four decades. Watch datasteward Garrett Speed present the project [here.](https://www.youtube.com/watch?v=kzIMNBxTPhg)
+[Read more about the Data Odyssey Project.](https://www.uu.nl/en/news/from-dusty-archives-to-the-cloud-a-data-odyssey?utm_source=maileon&utm_medium=email&utm_campaign=11835&utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Ffrom-dusty-archives-to-the-cloud-a-data-odyssey)
+
+### Faculty Support Teams ###
+We continuously update our website. Last time you received the newsletter, we mentioned we updated all the guides, now we've added information about the [faculty support teams.](https://mailings.uu.nl/i/x2SqO9QvBABk8W3Ud3Y9vQe1wqHxEqDt) We always welcome input on [info.rdm@uu.nl](info.rdm@uu.nl). The upcoming period we will be working on FAQ’s for Yoda.
+
+## Meet Leo! ##
+
+### New DMP Module Now Available 24/7 Online ###
+From now on you can learn all there is to know about writing your Data Management Plan whenever and wherever you want. In this e-learning module you will master all the basic concepts you need to write a good plan in about 1.5 hours with the help of Leonardo.
+[Get started with your DMP now!](https://mailings.uu.nl/i/twsPdwBXOhCx9TLPLTAMmRaLtG3vk7WS)
+
+
