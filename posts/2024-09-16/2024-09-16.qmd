@@ -1,8 +1,8 @@
 ---
 title: "RDS Hay Day"
-description: |
+description: Research Data Services department at Utrecht University Library gathered together in the University Green Office of the University Science Park
 
 author: Dan Rudmann
 date: 16 September 2024
 ---
-On September 16, 2024, the Research Data Services department at Utrecht University Library...
+On September 16, 2024, the Research Data Services department at Utrecht University Library gathered together at the University Science Park to begin the task of plotting out our annual activities. 
