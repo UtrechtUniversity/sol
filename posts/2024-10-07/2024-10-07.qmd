@@ -1,6 +1,6 @@
 ---
 title: "Upcoming interactive workshop at the National Open Science Festival: Stimulating Data (Re)Use"
-description: [UU Research Data Management support](https://www.uu.nl/en/research/research-data-management) joins forces with the [FAIR Data & Software Track](https://www.uu.nl/en/research/open-science/knowledge-center/faq/fair-data-and-software) of the UU Open Science Program, and the [Utrecht Open Science Office](https://www.uu.nl/onderzoek/open-science/over-ons/projectteam) to host a 2-hour interactive session on data re(use).
+description: UU Research Data Management support joins forces with the FAIR Data & Software Track of the UU Open Science Program, and the Utrecht Open Science Office to host a 2-hour interactive session on data re(use).
 
 author: Coosje Veldkamp
 date: 07 October 2024
