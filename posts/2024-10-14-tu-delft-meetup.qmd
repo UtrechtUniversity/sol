@@ -1,0 +1,84 @@
+---
+title: "UU - TU Delft meet-up"
+description: "On October 14th, central data support staff from TU Delft came to visit the UU for an information exchange and networking."
+author: Dorien Huijser
+date: 2024-10-14
+---
+
+On October 14th, our colleagues from Research Engineering (ITS) organized a meet-up with TU Delft support staff.
+The day took place near the Utrecht Science Park in a room just large enough for all attendees. 
+Attendees from TU Delft were mostly from the central "TU Delft Digital Competence Center" (DCC).
+From the UU side, most research engineers were present, and three members of the library (Stefano, Neha and Dorien).
+
+## The program
+
+The program of the day is elaborated in [this hackmd file](https://hackmd.io/@yaselq/SJscNE7oR). 
+In the morning, both UU and TU Delft presented how research data and software support is organized at each institute.
+After lunch, there were deep-dives in a few example (engineering) projects and a workshop about SnakeMake, a workflow tool.
+
+## Research support roles at TU Delft
+
+Whereas the Utrecht DCC (UDCC) is a university-wide network of data and software support staff, at the TU Delft, the DCC is only a *central* thing.
+
+Here are the roles I understood from the morning presentation:
+
+- **Library** (DCC): data managers. 
+They work on projects with the software engineers, give data *and software* trainings, and coordinate the faculty data stewards.
+They have 1 coordinator, 4 data managers, 1 DCC coordinator and 1 project manager (if I interpreted correctly).
+- **IT** (DCC): software engineers.
+They work on project with the data managers from the library. 
+Their team consists of an innovation team and 8 software engineers. 
+Some of them are experts in HPC and AI/ML.
+- **Faculty support staff**: every faculty  has 1 or 2 data stewards and they pick up most of the tasks we at RDS call "consultancy" (DMP and data review, answering questions and referring to other experts).
+These data stewards are coordinated by the library. Some faculties additionally have "local" data managers and RSEs, who are usually PhDs and postdocs in research groups. 
+
+## Research support services at TU Delft
+
+Besides having more specified roles, the TU Delft DCC also seems to have different services/focus areas:
+
+- **Code and Data Office Hours**: every 2 weeks, they have 40 minute pre-booked consultations. They also tried out walk-in hours, but they did not work super well for them, except when they were held (physically) closer to researchers.
+- **CODECHECK**: check of computational workflows ([more info](https://codecheck.org.uk/)).
+- **Hands-on project support**: library and IT staff work together on 3-10 month projects requested by TU Delft research staff. This is in kind and free of charge for max. 2 days a week. They do a call for applications each year and they pick up about 15 projects per year. Support tasks are agreed upon during the initial week(s), with a promise of effort (not deliverables). Ideally 2 support people are involved in each project and solutions should be developed through co-creation: active collaboration is essential, because solutions will need to be maintained by the researchers, and the aim is to transfer knowledge. Projects are selected if they are feasible, match with DCC expertise, are maintainable and have a positive impact in the research community, and can lead to FAIR output.
+- **Courses and workshops**: data and software carpentries, coderefinery, GitCoDev, FAIR4RS (12-week program to support adoption of digital skills), Open science MOOC, Open Hardware academy
+- **Community and Resources**: DCC guides + R Cafe
+
+## Animal sounds project 
+
+UU engineers Jelle and Parisa talked about the Animal Sounds project.
+All project details can be found in [the online slides](https://utrechtuniversity.github.io/re-presentation-animalsounds/slides#/animal-sounds).
+
+### Tests for research software
+
+Niket from TU Delft talked about software testing for research software projects.
+Not many research software projects have them. 
+Important questions that one should ask themselves are: What tests, how many, how much testing is enough?
+
+Example software mentioned by Niket:
+
+- Robotics: [Motion planner](https://github.com/tud-amr/localplannerbench)
+- Coastal engineering: [simulate sediment transport](https://github.com/openearth/aeolis-python)
+- Chemistry: calculating properties on [catalyst structure](https://github.com/epics-group/obelix)
+
+The commonality in these softwares is that the software requires an input file, does something with it, and then spits out an output file. 
+This can be a starting point for writing software tests.
+For example: test if an output file is generated; and then test the content of the output file, etc.
+
+Niket's takeaways were to 1) Begin with writing a high-level test, and 2) Visualize the process of what the software should be doing. 
+
+## Unconference and Snakemake
+
+The afternoon ended with an "Unconference" session where several topics were discussed in groups based on interest.
+I myself instead joined the Snakemake workshop by UU engineers Raoul and Matty.
+Snakemake is a workflow engine (just like Galaxy or Make), which is not focused on a user interface but more towards programmers. 
+So.. this was quite a challenge for me as a non/terrible programmer :)
+
+Some interesting facts about Snakemake:
+
+- It was inspired by Make and the configuration file is called a snakefile (instead of a makefile)
+- It is a "syntactical extension of Python": you can write Python in your snakefile
+- It supports different execution backends (SLURM) and remote storage (S3). There is also a plugin for iRods
+
+Basically, you create a snakefile that defines rules and commands which have to be run. 
+Each rule has an `input`, `output` and a `shell` argument which specifies which file (e.g., code file) to run. The [workshop materials](https://github.com/qubixes/snakemake-primes-template) are on GitHub. Tip: the solutions are in the [solution branch](https://github.com/qubixes/snakemake-primes-template/tree/solution).
+
+I was honestly terrible at figuring out how this worked, but the fun thing was that I was paired up with a TU Delft programmer/engineer who had the same difficulties as me. So we had fun, but in order for me to actually learn how to use this, I'll probably have to ask Raoul and Matty first!
