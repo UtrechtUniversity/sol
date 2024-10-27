@@ -1,0 +1,42 @@
+---
+title: "Creating the self-reflection guide big data at Humanities"
+description: "In the beginning of this month, the self-reflection guide on human-related big data research was made available to all staff of the Faculty of Humanities."
+author: Dorien Huijser
+date: 2024-10-14
+---
+
+In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. 
+Ted Sanders, vice dean research and impact at the faculty had started a working group "Big data and ethical review", with the aim of creating a protocol to clarify this topic for researchers.
+Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective.
+That someone ended up being me!
+
+## The process
+
+For about a year, we had a meeting once or twice a month to discuss the form, content and "status" of such a protocol.
+We ended up with the idea to create a self-reflection guide.
+The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic.
+If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. 
+Note that this is only the case when there is no direct contact whatsoever with the people whose data are used ("data subjects"), or when the data cannot be linked back directly to a specific person.
+
+## What is big data research?
+
+A question discussed thoroughly in the working group: what do we mean with big data research?
+It is a very generic term which needed to be made more concrete. 
+Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants?
+After taking a lot of questions into consideration, the decision was made to both make the term more specific ("Human-related big data research"), as well as to provide clear definitions in the guide itself.
+The following aspects are considered to fall within the scope of the guide:
+
+- big data: data already published or collected elsewhere in which direct contact with the "data subject" is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.
+- contactless research: research in which there is no direct contact with data subjects.
+- human-related data: research in which data from people is collected or used. 
+This can be both personal or anonymous data.
+
+## The published guide
+
+After some time, the guide has now been published and it now has a formal status within the Humanities faculty. 
+It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. 
+The nice thing is that references are made to general information on the [RDM website](https://uu.nl/rdm) and the [Data Privacy Handbook](https://uu.nl/privacyhandbook) wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations.
+In that sense, it was a great UDCC project well before the UDCC has been officially in place :)
+
+- More background can be found in the [news item on the UU intranet](https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step)
+- The persistent and public version of the guide is [on Zenodo](https://doi.org/10.5281/zenodo.13990169)
