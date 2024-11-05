@@ -5,7 +5,7 @@ author: Dan Rudmann
 date: 2024-11-05
 ---
 
-![UDCC Forum flyer](DCC Forum flyer 1.png){width=40%}
+![UDCC Forum flyer](UDCC Forum flyer 1.png){width=40%}
 
 ## UDCC Forum 
 Tuesday, November 12, 2024 
