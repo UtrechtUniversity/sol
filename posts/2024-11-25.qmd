@@ -2,7 +2,7 @@
 title: "Research Data Services -- Evaluation Framework"
 description: |
 
-author: Dan Rudmann
+author: Lilli van Wielink, Dorien Huijser, Coosje Veldkamp, and Dan Rudmann
 date: 25 November 2024
 ---
 
