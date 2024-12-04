@@ -1,0 +1,11 @@
+---
+title: "Utrecht University Supports All of Us Data Platform"
+description: |
+
+author: Felix Weijdema
+date: 04 December 2024
+---
+
+The UU is now one of the registered institutions on the [All of Us data platform](https://www.researchallofus.org/institutional-agreements/). Now that we have signed the data usage agreement, registered users can apply for access to the workbench, to analyse the controlled and registered tier-data.
+
+The *[All of Us](https://www.researchallofus.org/)* platform integrates electronic health records, survey data, genomic information, and wearable device data from US citizens. This way you can explore a wide range of health-related research questions and improve our understanding of various health conditions.
