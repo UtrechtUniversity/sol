@@ -1,0 +1,10 @@
+---
+title: "Understanding Open Research Outputs"
+description: |
+
+author: Felix Weijdema and Dorien Huijser
+date: 03 February 2025
+---
+
+> Collaborative initiatives can create a more equitable research assessment framework that recognizes diverse contributions to science.
+[How much research output is really open, and how can we tell?](https://blog.esciencecenter.nl/how-much-research-output-is-really-open-and-how-can-we-tell-422013cc93ab) from the Netherlands eScience Center, featuring a workshop from last year's Open Science Festival in Maastricht.
