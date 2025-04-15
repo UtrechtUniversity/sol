@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sol @ Utrecht University Library</title>
+<link>https://utrechtuniversity.github.io/sol/</link>
+<atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
+<description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Understanding Open Research Outputs</title>
+  <dc:creator>Felix Weijdema and Dorien Huijser</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2025-02-03.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<blockquote class="blockquote">
+<p>Collaborative initiatives can create a more equitable research assessment framework that recognizes diverse contributions to science.</p>
+</blockquote>
+<p><a href="https://blog.esciencecenter.nl/how-much-research-output-is-really-open-and-how-can-we-tell-422013cc93ab">How much research output is really open, and how can we tell?</a> from the Netherlands eScience Center, featuring a workshop from last year’s Open Science Festival in Maastricht.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2025-02-03.html</guid>
+  <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Utrecht University Supports All of Us Data Platform</title>
+  <dc:creator>Felix Weijdema</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-12-04.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The UU is now one of the registered institutions on the <a href="https://www.researchallofus.org/institutional-agreements/">All of Us data platform</a>. Now that we have signed the data usage agreement, registered users can apply for access to the workbench, to analyse the controlled and registered tier-data.</p>
+<p>The <em><a href="https://www.researchallofus.org/">All of Us</a></em> platform integrates electronic health records, survey data, genomic information, and wearable device data from US citizens. This way you can explore a wide range of health-related research questions and improve our understanding of various health conditions.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-12-04.html</guid>
+  <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research Data Services – Evaluation Framework</title>
+  <dc:creator>Lilli van Wielink, Dorien Huijser, Coosje Veldkamp, and Dan Rudmann</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-11-25.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>RDS works to facilitate culture change in research toward more Open &amp; FAIR practices.</p>
+<p>RDS fulfills this vision by centering transparency, working in a way that reflects the processes we promote. As a service department, our goal is to empower the people we work with to realise their own agency and sovereignty in bringing about change in research practices and culture.</p>
+<p>In order to meet the shared goal of our office, RDS engages in intersecting activities:</p>
+<section id="guidance" class="level2">
+<h2 class="anchored" data-anchor-id="guidance">Guidance</h2>
+<p>RDS at the UB is an expertise center for developing practices related to research processes and data management within Utrecht University. We offer advice to researchers, inform administrative policy, and share knowledge with colleagues to bring about a wider understanding of diverse perspectives and actions that align research practices with our organisational <a href="https://www.uu.nl/en/organisation/profile/mission-and-strategy">mission.</a></p>
+</section>
+<section id="training" class="level2">
+<h2 class="anchored" data-anchor-id="training">Training</h2>
+<p>RDS translates its knowledge into a series of workshops and training sessions that are offered at the university libraries. We organise and teach those sessions to work with researchers on issues in research software management, research data, and their related digital competencies. Trainings are offered both in-person and as persistent online modules.</p>
+</section>
+<section id="community" class="level2">
+<h2 class="anchored" data-anchor-id="community">Community</h2>
+<p>Engendering cooperation is at the core of RDS efforts. We bring people together, both within and across organisational boundaries, to exchange knowledge by identifying and supporting judicious connections. RDS focuses simultaneously on the content of research processes and the experience of facilitating change.</p>
+</section>
+<section id="infrastructure" class="level2">
+<h2 class="anchored" data-anchor-id="infrastructure">Infrastructure</h2>
+<p>RDS tends a knowledge base on technical infrastructure that supports research processes. We leverage our embedded positions to surface researcher needs and communicate those to developers to improve technical capabilities. Simultaneously, RDS stewards the social infrastructure that promotes community-led progress in research processes.</p>
+</section>
+<section id="meta-science" class="level2">
+<h2 class="anchored" data-anchor-id="meta-science">Meta-Science</h2>
+<p>RDS team members are thought leaders in research processes and help increase collective literacy on pressing issues in open science. We explore emerging trends in research intelligence, research information, and bibliometrics, along with their relation to data.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-11-25.html</guid>
+  <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>UDCC Forum: Data Storage Landscape</title>
+  <dc:creator>Dan Rudmann</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-11-05.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://utrechtuniversity.github.io/sol/posts/UDCC Forum flyer 1.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>UDCC Forum flyer</figcaption>
+</figure>
+</div>
+<section id="udcc-forum" class="level2">
+<h2 class="anchored" data-anchor-id="udcc-forum">UDCC Forum</h2>
+<p>Tuesday, November 12, 2024</p>
+<p>10-12hr</p>
+<p>Vening Meineszgebouw A, room 1.13</p>
+</section>
+<section id="invitation" class="level2">
+<h2 class="anchored" data-anchor-id="invitation">Invitation</h2>
+<p>The UDCC network convenes its Forum on the second Tuesday of every month.</p>
+<p>These meetings typically consist of two parts. The first half is an open agenda, curated for community members to share their work and interests across the network. The second hour features a deeper dive into a particular hot topic. The UDCC Forum is open to all colleagues at Utrecht University interested in digital competencies.</p>
+<p>November 12 will be the soft launch of the UDCC Forum and begins with a brief roundtable discussion on the intent and trajectory of the UDCC. The in-depth presentation this month will be on the Utrecht University Landscape for Data Storage by Mercedes Beltrán and Rene Aldelerhof. As spaces to keep research data fill to the brim, we will explore what options are available to the Utrecht University to keep data safe and retrievable.</p>
+<p>The Forum is moveable - landing each month in a different location throughout the UU. We hope to see you at the Vening Meineszgebouw on November 12th.</p>
+</section>
+<section id="what-is-the-udcc" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-the-udcc">What is the UDCC?</h2>
+<p>The UDCC is the network of all research support teams at Utrecht University.</p>
+<p>The UDCC network exists to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. Together, research support staff weave diverse resources for research data, software, and infrastructure, building more resilient and robust modes of support by sharing knowledge and collectivising across the institution.</p>
+<p>By combining our knowledge and strengths, together we can achieve results that would not be possible for individual teams.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-11-05.html</guid>
+  <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Creating the self-reflection guide big data at Humanities</title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
+<section id="the-process" class="level2">
+<h2 class="anchored" data-anchor-id="the-process">The process</h2>
+<p>For about a year, we had a meeting once or twice a month to discuss the form, content and “status” of such a protocol. We ended up with the idea to create a self-reflection guide. The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic. If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. Note that this is only the case when there is no direct contact whatsoever with the people whose data are used (“data subjects”), or when the data cannot be linked back directly to a specific person.</p>
+</section>
+<section id="what-is-big-data-research" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-big-data-research">What is big data research?</h2>
+<p>A question discussed thoroughly in the working group: what do we mean with big data research? It is a very generic term which needed to be made more concrete. Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants? After taking a lot of questions into consideration, the decision was made to both make the term more specific (“Human-related big data research”), as well as to provide clear definitions in the guide itself. The following aspects are considered to fall within the scope of the guide:</p>
+<ul>
+<li>big data: data already published or collected elsewhere in which direct contact with the “data subject” is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.</li>
+<li>contactless research: research in which there is no direct contact with data subjects.</li>
+<li>human-related data: research in which data from people is collected or used. This can be both personal or anonymous data.</li>
+</ul>
+</section>
+<section id="the-published-guide" class="level2">
+<h2 class="anchored" data-anchor-id="the-published-guide">The published guide</h2>
+<p>After some time, the guide has now been published and it now has a formal status within the Humanities faculty. It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. The nice thing is that references are made to general information on the <a href="https://uu.nl/rdm">RDM website</a> and the <a href="https://uu.nl/privacyhandbook">Data Privacy Handbook</a> wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations. In that sense, it was a great UDCC project well before the UDCC has been officially in place :)</p>
+<ul>
+<li>More background can be found in the <a href="https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step">news item on the UU intranet</a></li>
+<li>The persistent and public version of the guide is <a href="https://doi.org/10.5281/zenodo.13990169">on Zenodo</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>UU - TU Delft meet-up</title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On October 14th, our colleagues from Research Engineering (ITS) organized a meet-up with TU Delft support staff. The day took place near the Utrecht Science Park in a room just large enough for all attendees. Attendees from TU Delft were mostly from the central “TU Delft Digital Competence Center” (DCC). From the UU side, most research engineers were present, and three members of the library (Stefano, Neha and Dorien).</p>
+<section id="the-program" class="level2">
+<h2 class="anchored" data-anchor-id="the-program">The program</h2>
+<p>The program of the day is elaborated in <a href="https://hackmd.io/@yaselq/SJscNE7oR">this hackmd file</a>. In the morning, both UU and TU Delft presented how research data and software support is organized at each institute. After lunch, there were deep-dives in a few example (engineering) projects and a workshop about SnakeMake, a workflow tool.</p>
+</section>
+<section id="research-support-roles-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="research-support-roles-at-tu-delft">Research support roles at TU Delft</h2>
+<p>Whereas the Utrecht DCC (UDCC) is a university-wide network of data and software support staff, at the TU Delft, the DCC is only a <em>central</em> thing.</p>
+<p>Here are the roles I understood from the morning presentation:</p>
+<ul>
+<li><strong>Library</strong> (DCC): data managers. They work on projects with the software engineers, give data <em>and software</em> trainings, and coordinate the faculty data stewards. They have 1 coordinator, 4 data managers, 1 DCC coordinator and 1 project manager (if I interpreted correctly).</li>
+<li><strong>IT</strong> (DCC): software engineers. They work on project with the data managers from the library. Their team consists of an innovation team and 8 software engineers. Some of them are experts in HPC and AI/ML.</li>
+<li><strong>Faculty support staff</strong>: every faculty has 1 or 2 data stewards and they pick up most of the tasks we at RDS call “consultancy” (DMP and data review, answering questions and referring to other experts). These data stewards are coordinated by the library. Some faculties additionally have “local” data managers and RSEs, who are usually PhDs and postdocs in research groups.</li>
+</ul>
+</section>
+<section id="research-support-services-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="research-support-services-at-tu-delft">Research support services at TU Delft</h2>
+<p>Besides having more specified roles, the TU Delft DCC also seems to have different services/focus areas:</p>
+<ul>
+<li><strong>Code and Data Office Hours</strong>: every 2 weeks, they have 40 minute pre-booked consultations. They also tried out walk-in hours, but they did not work super well for them, except when they were held (physically) closer to researchers.</li>
+<li><strong>CODECHECK</strong>: check of computational workflows (<a href="https://codecheck.org.uk/">more info</a>).</li>
+<li><strong>Hands-on project support</strong>: library and IT staff work together on 3-10 month projects requested by TU Delft research staff. This is in kind and free of charge for max. 2 days a week. They do a call for applications each year and they pick up about 15 projects per year. Support tasks are agreed upon during the initial week(s), with a promise of effort (not deliverables). Ideally 2 support people are involved in each project and solutions should be developed through co-creation: active collaboration is essential, because solutions will need to be maintained by the researchers, and the aim is to transfer knowledge. Projects are selected if they are feasible, match with DCC expertise, are maintainable and have a positive impact in the research community, and can lead to FAIR output.</li>
+<li><strong>Courses and workshops</strong>: data and software carpentries, coderefinery, GitCoDev, FAIR4RS (12-week program to support adoption of digital skills), Open science MOOC, Open Hardware academy</li>
+<li><strong>Community and Resources</strong>: DCC guides + R Cafe</li>
+</ul>
+</section>
+<section id="animal-sounds-project" class="level2">
+<h2 class="anchored" data-anchor-id="animal-sounds-project">Animal sounds project</h2>
+<p>UU engineers Jelle and Parisa talked about the Animal Sounds project. All project details can be found in <a href="https://utrechtuniversity.github.io/re-presentation-animalsounds/slides#/animal-sounds">the online slides</a>.</p>
+<section id="tests-for-research-software" class="level3">
+<h3 class="anchored" data-anchor-id="tests-for-research-software">Tests for research software</h3>
+<p>Niket from TU Delft talked about software testing for research software projects. Not many research software projects have them. Important questions that one should ask themselves are: What tests, how many, how much testing is enough?</p>
+<p>Example software mentioned by Niket:</p>
+<ul>
+<li>Robotics: <a href="https://github.com/tud-amr/localplannerbench">Motion planner</a></li>
+<li>Coastal engineering: <a href="https://github.com/openearth/aeolis-python">simulate sediment transport</a></li>
+<li>Chemistry: calculating properties on <a href="https://github.com/epics-group/obelix">catalyst structure</a></li>
+</ul>
+<p>The commonality in these softwares is that the software requires an input file, does something with it, and then spits out an output file. This can be a starting point for writing software tests. For example: test if an output file is generated; and then test the content of the output file, etc.</p>
+<p>Niket’s takeaways were to 1) Begin with writing a high-level test, and 2) Visualize the process of what the software should be doing.</p>
+</section>
+</section>
+<section id="unconference-and-snakemake" class="level2">
+<h2 class="anchored" data-anchor-id="unconference-and-snakemake">Unconference and Snakemake</h2>
+<p>The afternoon ended with an “Unconference” session where several topics were discussed in groups based on interest. I myself instead joined the Snakemake workshop by UU engineers Raoul and Matty. Snakemake is a workflow engine (just like Galaxy or Make), which is not focused on a user interface but more towards programmers. So.. this was quite a challenge for me as a non/terrible programmer :)</p>
+<p>Some interesting facts about Snakemake:</p>
+<ul>
+<li>It was inspired by Make and the configuration file is called a snakefile (instead of a makefile)</li>
+<li>It is a “syntactical extension of Python”: you can write Python in your snakefile</li>
+<li>It supports different execution backends (SLURM) and remote storage (S3). There is also a plugin for iRods</li>
+</ul>
+<p>Basically, you create a snakefile that defines rules and commands which have to be run. Each rule has an <code>input</code>, <code>output</code> and a <code>shell</code> argument which specifies which file (e.g., code file) to run. The <a href="https://github.com/qubixes/snakemake-primes-template">workshop materials</a> are on GitHub. Tip: the solutions are in the <a href="https://github.com/qubixes/snakemake-primes-template/tree/solution">solution branch</a>.</p>
+<p>I was honestly terrible at figuring out how this worked, but the fun thing was that I was paired up with a TU Delft programmer/engineer who had the same difficulties as me. So we had fun, but in order for me to actually learn how to use this, I’ll probably have to ask Raoul and Matty first!</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Upcoming interactive workshop at the National Open Science Festival: Stimulating Data (Re)Use</title>
+  <dc:creator>Coosje Veldkamp</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-07.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="upcoming-workshop-stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-workshop-stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions">Upcoming Workshop: <a href="https://opensciencefestival.nl/en/programme/stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions-double-workshop">Stimulating the (Re)Use of FAIR Research Data Among Researchers: Strategies and Solutions</a></h2>
+<p>Researchers routinely use insights from previous work – but typically they use publications more often and more intensively than the underlying data. While significant efforts have been invested in ensuring the production of FAIR data, an equally critical aspect - stimulating the reuse of data - remains relatively underexplored. This interactive workshop aims to address this gap by engaging participants in discussions and activities that will uncover barriers to data reuse and develop actionable strategies to enhance the consumption of FAIR research data among researchers.</p>
+<p>During this workshop, research support staff, researchers, funders, policy makers and others will be working collaboratively on these objectives:</p>
+<ul>
+<li><p><em>Identifying barriers and exploring motivators:</em> taking into account differences between research domains, participants will identify common obstacles that hinder the (re)use of FAIR data, including technical, cultural, and policy-related challenges. We will also explore what motivates researchers to reuse data, examining successful case studies and reviewing results from studies on this topic.</p></li>
+<li><p><em>Developing strategies:</em> participants will collaborate to develop practical strategies and recommendations to promote the (re)use of FAIR data.</p></li>
+<li><p><em>Action plan:</em> participants will be provided with a template to create an action plan tailored to their research domains or research communities, aiming to foster a culture of data reuse.</p></li>
+<li><p><em>Continued collaboration and community development:</em> participants will be invited to share their action plans in a common online space and collaborate in a newly formed community on stimulating data (re)use.</p></li>
+</ul>
+<p>Organized by: <a href="https://www.uu.nl/medewerkers/HQuene">Hugo Quené</a>, <a href="https://www.uu.nl/medewerkers/AYdeJong">Aleid de Jong</a>, <a href="https://www.uu.nl/staff/JPFlores">Jacques Flores</a>, <a href="https://www.uu.nl/medewerkers/JdeBruin1">Jonathan de Bruin</a>, and <a href="https://www.uu.nl/medewerkers/CLSVeldkamp">Coosje Veldkamp</a>, Utrecht University The workshop will be held at the <a href="https://opensciencefestival.nl/">Netherlands National Open Science Festival</a> at Maastricht University on October 22, 2024.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-07.html</guid>
+  <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Upcoming Workshop at the National Open Science Festival with RDS and UDCC: Building the Commons</title>
+  <dc:creator>Dan Rudmann</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-03.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Upcoming Workshop: Building the Commons</p>
+<p>The implementation of Open Science across the Netherlands is beginning to reorient the way people at knowledge organisations structure their work. Institutions are affirming these changes by reimaging programs for Recognition &amp; Reward and developing innovative networks such as DCCs (Digital Competence Centers). By exploring these modes of support and collaboration across the Netherlands, this interactive session will co-design structures that facilitate community, valorisation, and care as intrinsic to science.</p>
+<p>The workshop “Building the Commons: How Open Science and DCCs Bring About New Ways of Working” will be divided into three parts. The initial presentation will establish a shared foundation for ideas around open and networked modes of knowledge production, introducing the concept of the commons. The second section will showcase a series of spaces already beginning to enact this type of cooperation within and among organisations in the Netherlands, including Utrecht DCC, VU Art Science, the Dutch Open Science Communities, and the national TDCC. Finally, participants will engage in a collective exercise to design common networks across their communities. The session is intended for people working in research and research support who are interested in the connections and infrastructure that generate Open Science.</p>
+<p>During this session, we will assert that the present moment in the Netherlands is an extraordinary opportunity to build such knowledge commons due to the national commitment to Open Science and the unique affiliations among present knowledge workers. We seek to build upon this collaborative spirit to render our work more inclusive, engaged, diverse, equitable, and meaningful. People attending this session will gain insight into projects that rethink cooperation as well as a framework and lexicon to render those types of efforts more visible and resilient. The output will be designs and resources that help people participate in and replicate open and networked forms of knowledge production.</p>
+<p>Organized by: Coosje Veldkamp, Utrecht University Anna van ’t Veer, OSC-NL Martine de Vos, Utrecht University Nicole Emmenegger, TDCC–SSH Dan Rudmann, Utrecht University Lieke de Boer, Netherlands eScience Center Lena Karvovskaya, Vrije Universiteit Lilli van Wielink, Utrecht University</p>
+<p>The workshop will be held at the <a href="https://opensciencefestival.nl/">Netherlands National Open Science Festival</a> at Maastricht University on October 22, 2024.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-03.html</guid>
+  <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RDS Hay Day</title>
+  <dc:creator>Dan Rudmann</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-09-16.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>On September 16, 2024, the Research Data Services department at Utrecht University Library gathered together at the University Science Park to begin the task of plotting out our annual activities.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-09-16.html</guid>
+  <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Programming Café, September 2024</title>
+  <dc:creator>The Research Data Services Team</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-09-03.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Event Time and date: 12 September 2024 - 15 to 17hr Location: Bucheliuszaal 6.18, Universiteitsbibliotheek (Utrecht Science Park)</p>
+<p>Do you want to improve your programming skills, meet colleagues interested in coding, or ask questions related to research software? Pick up your laptop and come to the Programming Café!</p>
+<p>In this monthly meet-up, we will share knowledge about programming through short presentations, work on software projects, and help each other with challenges in working with code and data.</p>
+<p>This month’s theme: <em>Introducing iBridges</em></p>
+<p>Do you already use Yoda to store your data? Would you like to find out what else the system can do?</p>
+<p>In this talk, we will demonstrate how to leverage the full potential of Yoda through a new tool box called iBridges. iBridges consists of a python library to easily program against data, a command line tool for streamlined uploading and downloading of data, and a graphical user interface to enhance the experience of using Yoda. We will present a compute workflow that uses data in Yoda, generates results, and levels them with data. Subsequently, the results can be found by a non-programming user employing the GUI and downloading the results of the compute workflow. Join us to explore the functionality hidden inside of Yoda.</p>
+<p>What to expect</p>
+<p>During the Programming Café, you can work on your own project and share knowledge in a community setting. You can also bring your programming questions, bugs, and problems to discuss or resolve with members of Information Technology Support, Research Data Services, and researchers attending the café. In addition, each Programming Café will have a special theme. This is typically a short presentation or demonstration of (maximum) half an hour. We are always looking for suggestions on themes and people who want to present something. Don’t hesitate to send an email to info.rdm@uu.nl if you want to provide a suggestion or give a presentation!</p>
+<p>Who can attend</p>
+<p>Everyone is welcome at the Programming Café! You can be of any skill level and at any stage in working with your code and data. While many attendees will be R or Python users, people interested in other programming languages and software are invited as well.</p>
+<p>Full information can be found at (uu.nl/rdm)[https://www.uu.nl/en/events/programming-cafe-12-september-2024]</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-09-03.html</guid>
+  <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Newsletter RDM Support - June 2024</title>
+  <dc:creator>Dafne Jansen</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-06-26.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="awards-grants" class="level2">
+<h2 class="anchored" data-anchor-id="awards-grants">Awards &amp; Grants</h2>
+<section id="ron-scholten-wins-surf-research-support-champion-award" class="level3">
+<h3 class="anchored" data-anchor-id="ron-scholten-wins-surf-research-support-champion-award">Ron Scholten Wins SURF Research Support Champion Award</h3>
+<p>Ron Scholten received the Research Support Champion Award 2024 for his outstanding work on the YOUth project as well as for his work on Yoda. The jury describes Ron Scholten as pivotal in the YOUth study, where he ensures the storage, validation, and careful provision of sensitive data about young children. <a href="https://www.uu.nl/en/in-de-media/ron-scholten-wins-surf-research-support-champion-award?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A//www.uu.nl/en/in-the-media/ron-scholten-wins-surf-research-support-champion-award">Read more about the outstanding work of Ron.</a></p>
+</section>
+<section id="rens-van-der-schoot-receives-a-vici-grant" class="level3">
+<h3 class="anchored" data-anchor-id="rens-van-der-schoot-receives-a-vici-grant">Rens van der Schoot Receives a Vici Grant</h3>
+<p>Rens van der Schoot received a Vici-grant, the prestigious NWO grant to expand his work on ASReview. Rens van de Schoot emphasises that this award is team science in optima forma. “ITS and the university library should also be recognised in this: without them, this project would be nowhere.” <a href="https://www.uu.nl/en/news/vici-grant-for-research-into-reliable-ai-supported-literature-reviews?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fvici-grant-for-research-into-reliable-ai-supported-literature-reviews">Read more about the team effort leading to the grant.</a></p>
+</section>
+</section>
+<section id="how-to-be-fair" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-be-fair">How to be FAIR</h2>
+<section id="latest-fair-story-about-cognitive-mapping-published" class="level3">
+<h3 class="anchored" data-anchor-id="latest-fair-story-about-cognitive-mapping-published">Latest FAIR Story About Cognitive Mapping Published</h3>
+<p>In this interview, Femke van Esch tells us about Cognitive Mapping, a method for mapping people’s beliefs and reasoning. The previously complicated method was made more user-friendly by developing the new software CognitiveMapr for which she received a grant from the FAIR Research IT Innovation Fund. There are more projects that received a grant from the fund, such as Kees Klein Goldewijk’s <a href="https://www.uu.nl/en/news/the-hyde-portal-makes-the-history-of-land-use-both-accessible-and-visible?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthe-hyde-portal-makes-the-history-of-land-use-both-accessible-and-visible">HYDE database.</a> <a href="https://www.uu.nl/en/news/this-software-makes-the-powerful-research-method-cognitive-mapping-much-simpler?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthis-software-makes-the-powerful-research-method-cognitive-mapping-much-simpler">Learn more about cognitive mapping.</a></p>
+</section>
+<section id="fair-cheat-sheets-have-been-published" class="level3">
+<h3 class="anchored" data-anchor-id="fair-cheat-sheets-have-been-published">FAIR Cheat Sheets have been Published</h3>
+<p>Finding your way around the FAIR principles may prove to be a little daunting. That is why science historian and philosopher Susanna Bloem made grateful use of the FAIR Cheatsheets developed by experts from the Utrecht University Open Science Programme and RDM Support in consultation with researchers from several faculties. Read all about how she used this useful checklist to see if her data and code adhered to the FAIR principles. <a href="https://www.uu.nl/en/news/the-fair-cheatsheet-helps-me-to-publish-my-research-data-in-an-open-way?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Fthe-fair-cheatsheet-helps-me-to-publish-my-research-data-in-an-open-way">Learn more about FAIR Cheat Sheets</a></p>
+</section>
+</section>
+<section id="as-good-as-new" class="level2">
+<h2 class="anchored" data-anchor-id="as-good-as-new">As Good as New</h2>
+<section id="data-odyssey-project-at-geo" class="level3">
+<h3 class="anchored" data-anchor-id="data-odyssey-project-at-geo">Data Odyssey project at Geo</h3>
+<p>Remember the times of the floppy disks? Zip drives? CD-ROMS? It seems ages ago, but the data on these carriers are still valuable. The Geo Data Team managed to retrieve the data from these outdated data carriers and opened up the research data that Martin Wassen had collected for over four decades. Watch datasteward Garrett Speed present the project <a href="https://www.youtube.com/watch?v=kzIMNBxTPhg">here.</a> <a href="https://www.uu.nl/en/news/from-dusty-archives-to-the-cloud-a-data-odyssey?utm_source=maileon&amp;utm_medium=email&amp;utm_campaign=11835&amp;utm_content=https%3A%2F%2Fwww.uu.nl%2Fen%2Fnews%2Ffrom-dusty-archives-to-the-cloud-a-data-odyssey">Read more about the Data Odyssey Project.</a></p>
+</section>
+<section id="faculty-support-teams" class="level3">
+<h3 class="anchored" data-anchor-id="faculty-support-teams">Faculty Support Teams</h3>
+<p>We continuously update our website. Last time you received the newsletter, we mentioned we updated all the guides, now we’ve added information about the <a href="https://mailings.uu.nl/i/x2SqO9QvBABk8W3Ud3Y9vQe1wqHxEqDt">faculty support teams.</a> We always welcome input on <a href="info.rdm@uu.nl">info.rdm@uu.nl</a>. The upcoming period we will be working on FAQ’s for Yoda.</p>
+</section>
+</section>
+<section id="meet-leo" class="level2">
+<h2 class="anchored" data-anchor-id="meet-leo">Meet Leo!</h2>
+<section id="new-dmp-module-now-available-247-online" class="level3">
+<h3 class="anchored" data-anchor-id="new-dmp-module-now-available-247-online">New DMP Module Now Available 24/7 Online</h3>
+<p>From now on you can learn all there is to know about writing your Data Management Plan whenever and wherever you want. In this e-learning module you will master all the basic concepts you need to write a good plan in about 1.5 hours with the help of Leonardo. <a href="https://mailings.uu.nl/i/twsPdwBXOhCx9TLPLTAMmRaLtG3vk7WS">Get started with your DMP now!</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-06-26.html</guid>
+  <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
