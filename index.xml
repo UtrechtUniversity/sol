@@ -9,13 +9,57 @@
 <link>https://utrechtuniversity.github.io/sol/</link>
 <atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
-<generator>quarto-1.6.43</generator>
-<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>UDCC Forum Dialogue – Digital Autonomy</title>
+  <dc:creator>Dan Rudmann and Mees van Stiphout</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2026-02-17.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>On June 24, 2025, the UDCC gathered together for the final forum of its first year. In just ten months time, research staff throughout the university built a new venue for knowledge exchange and professional development in digital competencies. Meeting monthly to share questions, form new initiatives, and learn from one another, the UDCC Forum has demonstrated the significance of collaboration and mutual support. In recent months, the community has expanded to welcome people from other institutions based in the Utrecht area as well as national counterparts.</p>
+<p>Both the attendance and atmosphere was heightened at this particular Forum due to the relevance and interest for our special topic: a panel discussion on efforts to envision and build a digitally autonomous Utrecht University.</p>
+<section id="open-agenda" class="level2">
+<h2 class="anchored" data-anchor-id="open-agenda">Open Agenda</h2>
+<p>The first hour of the Forum brought updates and new questions from across the UU. Each month, community members share knowledge on emerging issues in research data management, open science, and digital competency issues. Here we began to plot Bèta’s forthcoming <a href="https://science-data-support.sites.uu.nl/faculty-services-support/fair-r-and-open-data-week/">FAIR-R and Open Data Week</a>, compare parallel efforts in data cleaning for repositories across faculties, and <a href="https://www.surf.nl/en/article/winners-research-support-champion-award-2025#raoul-schram">celebrate national recognition for our own data engineer Raoul Schram</a>.</p>
+<p>Johan Bokslag, from the University Medical Centre Utrecht, also joined us to share new systems and initiatives to support the Health Data Space. Bokslag spoke about empowering people to access and use their own health data. The initiative is still at an early phase, and in particular issues of governance and assessment would still need to be worked out. A sign that many of our digital possibilities remain truly mediated by our social connectivity.</p>
+</section>
+<section id="digital-autonomy" class="level2">
+<h2 class="anchored" data-anchor-id="digital-autonomy">Digital Autonomy</h2>
+<p>For the first time, the UDCC Forum brought together a panel of colleagues from across the university to discuss a critical issue that touches all of our work. Chaired by <a href="https://www.uu.nl/staff/AvanKooij">André van Kooij</a> from the Centre for Digital Humanities, the panel consisted of <a href="https://www.uu.nl/staff/BKRAmin">Bawan Amin</a>, research support officer at FSW, <a href="https://www.uu.nl/staff/JMBosman">Jeroen Bosman</a> from the university library, <a href="https://www.uu.nl/staff/PKFung/CV">Pui-Kei Fung</a>, IT Architect, and <a href="https://www.uu.nl/staff/TMvanNeerbos">Tim van Neerbos</a>, Enterprise and IT Architect.</p>
+<p>To begin, van Kooij introduced and contextualised the panel, citing recent geo-political events as underscoring the need for greater digital autonomy for all organisations, including UU. Elaborating on the right to privacy, self-determination, and Open Science principles, van Kooij argued that dependencies upon certain powerful governments and commercial technology companies are ultimately incompatible with, and unsustainable for, the goals of a research and education institution.</p>
+<p>With this shared foundation, Tim van Neerbos introduced the strategies and actions taking shape to realise digital autonomy at our university. As one of the architects of the university’s digital strategy, van Neerbos is currently scoping a two-year project that will gain insights, guardrails, and roadmaps toward digital autonomy. What was clear from van Neerbos was both the severity and thoughtfulness in approaching the issue. The architects at the university realise the comprehensive nature of the project but remain determined to bring about change. To this end, van Neerbos presented the Utrecht University Capability Model to assess the risks and trade-offs to realising the goal. Van Neerbos was clear that trade-offs would not always be comfortable or convenient, but that the possibilities in autonomy would often outweigh those challenges.</p>
+<p>Pui-Kei Fung built upon van Neerbos’ discussion by focusing on researcher concerns in an institutional transition toward digital autonomy. Fung identifies three potential challenges that could impact researchers with emerging systems: security, data storage, and usability. Would a new system for researchers compromise the security of and access to their work? How might researchers have to adjust their data storage workflows? And would digitally autonomous tools lack the clear user experience features and capabilities that people have grown to expect? But such potential difficulties are not insurmountable. Fung cites the recent <a href="https://cdh.uu.nl/2025/03/28/open-letter-petition-call-for-digital-autonomy-uu/">open letter from researchers calling for digital autonomy</a> as a strong indication of willingness to work through such problems. The determining factor in a successful transition to digital autonomy, then, is building trust between researchers and the university’s digital architects and support staff. To establish such trust, Fung approaches this work by always centering the researchers to be mindful of their experience and values in making the transition.</p>
+<p>Bawan Amin spoke about Open Science and the role of the university in society. Working daily alongside researchers, Amin witnesses the pressures they face in making their work open, particularly in regard to a culture of scholarly publishing that favours quantity over quality. Researchers often are put in an unfortunate position to compromise their ideals in favour of a global scientific structure that continues to favour “high-impact” commercial publishing. When researchers have less agency in deciding how their work becomes a publication, they unwittingly abdicate their digital autonomy. Many publishers are able to reserve rights over researcher data and restrict that data from public view, which Amin explains both hinders reproducibility and can lead to fraud. Amin illustrates the ways in which digital autonomy has far reaching implications for many of the ambitions that Utrecht University has set over the past decade in becoming an Open Science oriented institution. Digital autonomy, therefore, becomes a critical aspect in achieving our goals as a university.</p>
+<p>Jeroen Bosman, <a href="https://upstream.force11.org/the-resilience-of-open-science-in-times-of-crisis/">whose recent work also addresses the interdependence of Open Science and digital autonomy</a>, presented three provocations to initiate the transition to a digitally autonomous university: 1. It is helpful to connect different perspectives; 2. Make it an activity rather than a state; and 3. Enjoy the suffering. Such statements are informed by Bosman’s record of assisting the university in taking initiative in culture change. Indeed, Bosman shows us that the process of achieving autonomy in our digital systems is as crucial as the goal. That process, Bosman explains, if conducted carefully, can increase the freedom and agency of our researchers and lead to a more inclusive and diverse research culture. Bosman outlines a strategy of resilience that does not seek to duck away from the storms ahead, but rather allow turbulent times and new developments to reify the principles that we strive toward and compel us to act.</p>
+</section>
+<section id="whats-next" class="level2">
+<h2 class="anchored" data-anchor-id="whats-next">What’s Next</h2>
+<p>The panel discussion surfaced a delineation between technical and social solutions. While their coordination is crucial, the cultural changes to allow for digital autonomy were perhaps the most crucial in bringing about meaningful interventions. Panelists advocated for greater transparency to allow for empathy in the face of change. All agreed that in our position as research support staff, our value is increased through accountability and trust.</p>
+<p>How might we come together as a community to help one another through transitions? Seeds of a good answer were present in this meeting.</p>
+</section>
+<section id="for-more" class="level2">
+<h2 class="anchored" data-anchor-id="for-more">For More</h2>
+<p>The UDCC Forum is a monthly gathering of Utrecht University personnel working to develop digital competencies throughout the university. All are welcome. Contact the UDCC support team or visit <a href="https://uu.nl/dcc">uu.nl/dcc</a> for information on forthcoming events.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2026-02-17.html</guid>
+  <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Understanding Open Research Outputs</title>
   <dc:creator>Felix Weijdema and Dorien Huijser</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2025-02-03.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -42,6 +86,7 @@
 
 
 
+
 <p>The UU is now one of the registered institutions on the <a href="https://www.researchallofus.org/institutional-agreements/">All of Us data platform</a>. Now that we have signed the data usage agreement, registered users can apply for access to the workbench, to analyse the controlled and registered tier-data.</p>
 <p>The <em><a href="https://www.researchallofus.org/">All of Us</a></em> platform integrates electronic health records, survey data, genomic information, and wearable device data from US citizens. This way you can explore a wide range of health-related research questions and improve our understanding of various health conditions.</p>
 
@@ -56,6 +101,7 @@
   <dc:creator>Lilli van Wielink, Dorien Huijser, Coosje Veldkamp, and Dan Rudmann</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-11-25.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -96,6 +142,7 @@
   <dc:creator>Dan Rudmann</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-11-05.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -143,6 +190,7 @@
 
 
 
+
 <p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
 <section id="the-process" class="level2">
 <h2 class="anchored" data-anchor-id="the-process">The process</h2>
@@ -177,6 +225,7 @@
   <dc:creator>Dorien Huijser</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -253,6 +302,7 @@
 
 
 
+
 <section id="upcoming-workshop-stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-workshop-stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions">Upcoming Workshop: <a href="https://opensciencefestival.nl/en/programme/stimulating-the-reuse-of-fair-research-data-among-researchers-strategies-and-solutions-double-workshop">Stimulating the (Re)Use of FAIR Research Data Among Researchers: Strategies and Solutions</a></h2>
 <p>Researchers routinely use insights from previous work – but typically they use publications more often and more intensively than the underlying data. While significant efforts have been invested in ensuring the production of FAIR data, an equally critical aspect - stimulating the reuse of data - remains relatively underexplored. This interactive workshop aims to address this gap by engaging participants in discussions and activities that will uncover barriers to data reuse and develop actionable strategies to enhance the consumption of FAIR research data among researchers.</p>
@@ -282,6 +332,7 @@
 
 
 
+
 <p>Upcoming Workshop: Building the Commons</p>
 <p>The implementation of Open Science across the Netherlands is beginning to reorient the way people at knowledge organisations structure their work. Institutions are affirming these changes by reimaging programs for Recognition &amp; Reward and developing innovative networks such as DCCs (Digital Competence Centers). By exploring these modes of support and collaboration across the Netherlands, this interactive session will co-design structures that facilitate community, valorisation, and care as intrinsic to science.</p>
 <p>The workshop “Building the Commons: How Open Science and DCCs Bring About New Ways of Working” will be divided into three parts. The initial presentation will establish a shared foundation for ideas around open and networked modes of knowledge production, introducing the concept of the commons. The second section will showcase a series of spaces already beginning to enact this type of cooperation within and among organisations in the Netherlands, including Utrecht DCC, VU Art Science, the Dutch Open Science Communities, and the national TDCC. Finally, participants will engage in a collective exercise to design common networks across their communities. The session is intended for people working in research and research support who are interested in the connections and infrastructure that generate Open Science.</p>
@@ -305,6 +356,7 @@
 
 
 
+
 <p>On September 16, 2024, the Research Data Services department at Utrecht University Library gathered together at the University Science Park to begin the task of plotting out our annual activities.</p>
 
 
@@ -318,6 +370,7 @@
   <dc:creator>The Research Data Services Team</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-09-03.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -346,6 +399,7 @@
   <dc:creator>Dafne Jansen</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-06-26.html</link>
   <description><![CDATA[ 
+
 
 
 

@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/2026-02-17.html",
       "/posts/2025-02-03.html",
       "/posts/2024-12-04.html",
       "/posts/2024-11-25.html",
@@ -16,8 +17,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/archive.html",
     "items": [
+      "/posts/2026-02-17.html",
       "/posts/2025-02-03.html",
       "/posts/2024-12-04.html",
       "/posts/2024-11-25.html",
