@@ -1,0 +1,15 @@
+---
+title: "FAIR enough? Rethinking our training materials with LEARN-FAIR."
+description: |
+
+author: Annetrude Mooij-van Malsen
+date: 18 March 2026
+---
+
+Last week I had the pleasure of joining the [LEARN-FAIR](https://learn-fair.nl/) trainers community event at the AUMC. LEARN-FAIR is a Dutch initiative that brings together trainers and organizations to improve FAIR data skills by developing and sharing training resources and best practices, particularly in the Life Sciences and Health domain.
+
+As it was my first time attending, it was great to receive an introduction to the project and an update on the progress made so far, as well as meeting some wonderful community members. It is always reassuring to realise that research data supporters, consultants and stewards are all encountering many of the same challenges (“how do we get the researchers to come to our amazing trainings?”). It is especially encouraging to see the strong focus within the Dutch RDS community on organising events that bring people together to collaborate and tackle these kinds of challenges together.
+
+One interesting takeaway for me was the emphasis being not only on creating FAIR training programs that teach researchers how to manage and share FAIR data, but also on ensuring that the training materials themselves are FAIR. That point immediately sparked a bit of self-reflection. How FAIR are our own training resources? If I feel frustrated when a researcher uploads a dataset to Zenodo with little or no metadata, how much better am I when I simply publish a PowerPoint file without context, description, or reuse information?
+
+It was a small but powerful reminder that practising what we preach is just as important as teaching it. So one of the next steps will be to look at our trainings through a FAIR lens and explore what best practices we can develop and implement. By doing this, I hope we can make our training materials not only more useful for our own participants, but also something we can share back with the community.
