@@ -10,7 +10,7 @@ RDS is charged with caring for knowledge and support of various research data ma
 
 RDS consults one-on-one with researchers and students daily, and we encounter this complication in their reaction to practical use of infrastructures and requests for support. Our support and recommendations are formed by these experiences and the knowledge we can leverage to improve and assist researchers and students with their RDM workflow. 
 
-The University Library and RDS have played a central role in recommending the creation of the Research Data Board. One of the purposes of this board is to facilitate the adoption of policies that support, advise, and improve our RDM practices as a university. RDS working with our colleagues in ITS are currently purposing the creation of a policy framework to act as a holding entity for distinct policy elements. 
+The University Library and RDS have played a central role in recommending the creation of the Research Data Board. One of the purposes of this board is to facilitate the adoption of policies that support, advise, and improve our RDM practices as a university. RDS working with our colleagues in ITS are currently proposing the creation of a policy framework to act as a holding entity for distinct policy elements. 
 
 With this process for the adoption of a policy framework already underway, we see on the horizon the ability to take specific steps in advising policy creation. Data retention policy, data publishing policy, and policy to govern and recommend our use of data management plans. These are complicated topics with substantial impact upon faculties and researchers. Which is why we also need to carefully consider our own workflow and framework for handling these topics. 
 
