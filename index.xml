@@ -9,8 +9,31 @@
 <link>https://utrechtuniversity.github.io/sol/</link>
 <atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Research Data Support – How we recommend policy</title>
+  <dc:creator>Stefan Einarson</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2026-03-30.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>RDS is charged with caring for knowledge and support of various research data management (RDM) infrastructures. RDM infrastructures offer our researchers increasingly complicated options for organizing, analysing, and sharing their research data. More than this, researchers have a complicated role in determining which of those infrastructures they might have access to, and how those services might evolve.</p>
+<p>RDS consults one-on-one with researchers and students daily, and we encounter this complication in their reaction to practical use of infrastructures and requests for support. Our support and recommendations are formed by these experiences and the knowledge we can leverage to improve and assist researchers and students with their RDM workflow.</p>
+<p>The University Library and RDS have played a central role in recommending the creation of the Research Data Board. One of the purposes of this board is to facilitate the adoption of policies that support, advise, and improve our RDM practices as a university. RDS working with our colleagues in ITS are currently purposing the creation of a policy framework to act as a holding entity for distinct policy elements.</p>
+<p>With this process for the adoption of a policy framework already underway, we see on the horizon the ability to take specific steps in advising policy creation. Data retention policy, data publishing policy, and policy to govern and recommend our use of data management plans. These are complicated topics with substantial impact upon faculties and researchers. Which is why we also need to carefully consider our own workflow and framework for handling these topics.</p>
+<p>RDS as individual members and as a library department now see room to develop these policy recommendations. We will not do this alone, we will leverage our working relationships within the UDCC and direct contact with the RDM expertise centres across the UU. Our priority remains our ability to provide sustainable support for RDM infrastructures and enable researchers to have impactful RDM outcomes.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2026-03-30.html</guid>
+  <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FAIR enough? Rethinking our training materials with LEARN-FAIR.</title>
   <dc:creator>Annetrude Mooij-van Malsen</dc:creator>
@@ -359,7 +382,7 @@
 <p>The implementation of Open Science across the Netherlands is beginning to reorient the way people at knowledge organisations structure their work. Institutions are affirming these changes by reimaging programs for Recognition &amp; Reward and developing innovative networks such as DCCs (Digital Competence Centers). By exploring these modes of support and collaboration across the Netherlands, this interactive session will co-design structures that facilitate community, valorisation, and care as intrinsic to science.</p>
 <p>The workshop “Building the Commons: How Open Science and DCCs Bring About New Ways of Working” will be divided into three parts. The initial presentation will establish a shared foundation for ideas around open and networked modes of knowledge production, introducing the concept of the commons. The second section will showcase a series of spaces already beginning to enact this type of cooperation within and among organisations in the Netherlands, including Utrecht DCC, VU Art Science, the Dutch Open Science Communities, and the national TDCC. Finally, participants will engage in a collective exercise to design common networks across their communities. The session is intended for people working in research and research support who are interested in the connections and infrastructure that generate Open Science.</p>
 <p>During this session, we will assert that the present moment in the Netherlands is an extraordinary opportunity to build such knowledge commons due to the national commitment to Open Science and the unique affiliations among present knowledge workers. We seek to build upon this collaborative spirit to render our work more inclusive, engaged, diverse, equitable, and meaningful. People attending this session will gain insight into projects that rethink cooperation as well as a framework and lexicon to render those types of efforts more visible and resilient. The output will be designs and resources that help people participate in and replicate open and networked forms of knowledge production.</p>
-<p>Organized by: Coosje Veldkamp, Utrecht University Anna van ’t Veer, OSC-NL Martine de Vos, Utrecht University Nicole Emmenegger, TDCC–SSH Dan Rudmann, Utrecht University Lieke de Boer, Netherlands eScience Center Lena Karvovskaya, Vrije Universiteit Lilli van Wielink, Utrecht University</p>
+<p>Organized by: Coosje Veldkamp, Utrecht University Anna van ‘t Veer, OSC-NL Martine de Vos, Utrecht University Nicole Emmenegger, TDCC–SSH Dan Rudmann, Utrecht University Lieke de Boer, Netherlands eScience Center Lena Karvovskaya, Vrije Universiteit Lilli van Wielink, Utrecht University</p>
 <p>The workshop will be held at the <a href="https://opensciencefestival.nl/">Netherlands National Open Science Festival</a> at Maastricht University on October 22, 2024.</p>
 
 
