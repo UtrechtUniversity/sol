@@ -1,0 +1,19 @@
+---
+title: "Outputs from EOSC's Long Term Data Retention Task Force"
+description: |
+
+author: Jacques Flores
+date: 31 March 2026
+---
+
+For the past eighteen months, I have been working as co-chair for the Long Term Data Retention Task Force of the EOSC association. Therein, I've had the pleasure of working with selected experts on repository management from across Europe to consolidate information, guidelines, and frameworks on long term data retention and preservation. I'm delighted to share with you two recently published deliverables from this task force.
+ 
+The first output is a paper describing the current landscape of repositories across Europe. This paper highlights the challenges that long term data retention and data publishing face and provides advice on how to overcome them. 
+ 
+The second deliverable takes a more practical approach by first describing key concepts and ideologies in repository management and combining them in one paper to deliver a conceptual framework on how repositories ought to operate to be transparent, trustworthy, and sustainable. It focuses on the workflow of a digital object as it passes through appraisal, reappraisal, retention, and preservation.
+ 
+Deliverable 1: Current needs and challenges on data retention, appraisal, and reappraisal across stakeholders and communities. [https://zenodo.org/records/19232470](https://zenodo.org/records/19232470)
+ 
+Deliverable 2: Conceptual framework on the implementation of workflows concerning appraisal, reappraisal, retention, and preservation of digital objects: Retention (Re)Appraisal Iteration Logic (RRAIL). [https://zenodo.org/records/19231271](https://zenodo.org/records/19231271)
+ 
+Your thoughts, comments and questions are more than welcome. Please share to your heart desires with anyone whom might find this relevant.
