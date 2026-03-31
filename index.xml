@@ -10,7 +10,31 @@
 <atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Outputs from EOSC’s Long Term Data Retention Task Force</title>
+  <dc:creator>Jacques Flores</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2026-03-31.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>For the past eighteen months, I have been working as co-chair for the Long Term Data Retention Task Force of the EOSC association. Therein, I’ve had the pleasure of working with selected experts on repository management from across Europe to consolidate information, guidelines, and frameworks on long term data retention and preservation. I’m delighted to share with you two recently published deliverables from this task force.</p>
+<p>The first output is a paper describing the current landscape of repositories across Europe. This paper highlights the challenges that long term data retention and data publishing face and provides advice on how to overcome them.</p>
+<p>The second deliverable takes a more practical approach by first describing key concepts and ideologies in repository management and combining them in one paper to deliver a conceptual framework on how repositories ought to operate to be transparent, trustworthy, and sustainable. It focuses on the workflow of a digital object as it passes through appraisal, reappraisal, retention, and preservation.</p>
+<p>Deliverable 1: Current needs and challenges on data retention, appraisal, and reappraisal across stakeholders and communities. <a href="https://zenodo.org/records/19232470">https://zenodo.org/records/19232470</a></p>
+<p>Deliverable 2: Conceptual framework on the implementation of workflows concerning appraisal, reappraisal, retention, and preservation of digital objects: Retention (Re)Appraisal Iteration Logic (RRAIL). <a href="https://zenodo.org/records/19231271">https://zenodo.org/records/19231271</a></p>
+<p>Your thoughts, comments and questions are more than welcome. Please share to your heart desires with anyone whom might find this relevant.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2026-03-31.html</guid>
+  <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Research Data Support – How we recommend policy</title>
   <dc:creator>Stefan Einarson</dc:creator>
