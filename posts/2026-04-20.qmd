@@ -1,0 +1,10 @@
+---
+title: "Utrecht University Library at Oxford's Forum for Open Scholarship"
+description: |
+
+author: Dan Rudmann
+date: 20 April 2026
+---
+Last month, I had the distinct honor of presenting a talk at Oxford's Bodliean Library at their annual Forum for Open Scholarship.
+
+The recording of that talk, entitled "A Poetics of Infrastructural Salvage," is available online now at [this link](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1a7ff333-ca25-485b-98f3-b405011a9518&start=0).
