@@ -9,8 +9,28 @@
 <link>https://utrechtuniversity.github.io/sol/</link>
 <atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Mon, 20 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Utrecht University Library at Oxford’s Forum for Open Scholarship</title>
+  <dc:creator>Dan Rudmann</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2026-04-20.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Last month, I had the distinct honor of presenting a talk at Oxford’s Bodliean Library at their annual Forum for Open Scholarship.</p>
+<p>The recording of that talk, entitled “A Poetics of Infrastructural Salvage,” is available online now at <a href="https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1a7ff333-ca25-485b-98f3-b405011a9518&amp;start=0">this link</a>.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2026-04-20.html</guid>
+  <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Outputs from EOSC’s Long Term Data Retention Task Force</title>
   <dc:creator>Jacques Flores</dc:creator>
@@ -250,46 +270,6 @@
   <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Creating the self-reflection guide big data at Humanities</title>
-  <dc:creator>Dorien Huijser</dc:creator>
-  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
-<section id="the-process" class="level2">
-<h2 class="anchored" data-anchor-id="the-process">The process</h2>
-<p>For about a year, we had a meeting once or twice a month to discuss the form, content and “status” of such a protocol. We ended up with the idea to create a self-reflection guide. The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic. If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. Note that this is only the case when there is no direct contact whatsoever with the people whose data are used (“data subjects”), or when the data cannot be linked back directly to a specific person.</p>
-</section>
-<section id="what-is-big-data-research" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-big-data-research">What is big data research?</h2>
-<p>A question discussed thoroughly in the working group: what do we mean with big data research? It is a very generic term which needed to be made more concrete. Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants? After taking a lot of questions into consideration, the decision was made to both make the term more specific (“Human-related big data research”), as well as to provide clear definitions in the guide itself. The following aspects are considered to fall within the scope of the guide:</p>
-<ul>
-<li>big data: data already published or collected elsewhere in which direct contact with the “data subject” is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.</li>
-<li>contactless research: research in which there is no direct contact with data subjects.</li>
-<li>human-related data: research in which data from people is collected or used. This can be both personal or anonymous data.</li>
-</ul>
-</section>
-<section id="the-published-guide" class="level2">
-<h2 class="anchored" data-anchor-id="the-published-guide">The published guide</h2>
-<p>After some time, the guide has now been published and it now has a formal status within the Humanities faculty. It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. The nice thing is that references are made to general information on the <a href="https://uu.nl/rdm">RDM website</a> and the <a href="https://uu.nl/privacyhandbook">Data Privacy Handbook</a> wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations. In that sense, it was a great UDCC project well before the UDCC has been officially in place :)</p>
-<ul>
-<li>More background can be found in the <a href="https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step">news item on the UU intranet</a></li>
-<li>The persistent and public version of the guide is <a href="https://doi.org/10.5281/zenodo.13990169">on Zenodo</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</guid>
-  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>UU - TU Delft meet-up</title>
   <dc:creator>Dorien Huijser</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</link>
@@ -359,6 +339,46 @@
 
  ]]></description>
   <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Creating the self-reflection guide big data at Humanities</title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
+<section id="the-process" class="level2">
+<h2 class="anchored" data-anchor-id="the-process">The process</h2>
+<p>For about a year, we had a meeting once or twice a month to discuss the form, content and “status” of such a protocol. We ended up with the idea to create a self-reflection guide. The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic. If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. Note that this is only the case when there is no direct contact whatsoever with the people whose data are used (“data subjects”), or when the data cannot be linked back directly to a specific person.</p>
+</section>
+<section id="what-is-big-data-research" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-big-data-research">What is big data research?</h2>
+<p>A question discussed thoroughly in the working group: what do we mean with big data research? It is a very generic term which needed to be made more concrete. Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants? After taking a lot of questions into consideration, the decision was made to both make the term more specific (“Human-related big data research”), as well as to provide clear definitions in the guide itself. The following aspects are considered to fall within the scope of the guide:</p>
+<ul>
+<li>big data: data already published or collected elsewhere in which direct contact with the “data subject” is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.</li>
+<li>contactless research: research in which there is no direct contact with data subjects.</li>
+<li>human-related data: research in which data from people is collected or used. This can be both personal or anonymous data.</li>
+</ul>
+</section>
+<section id="the-published-guide" class="level2">
+<h2 class="anchored" data-anchor-id="the-published-guide">The published guide</h2>
+<p>After some time, the guide has now been published and it now has a formal status within the Humanities faculty. It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. The nice thing is that references are made to general information on the <a href="https://uu.nl/rdm">RDM website</a> and the <a href="https://uu.nl/privacyhandbook">Data Privacy Handbook</a> wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations. In that sense, it was a great UDCC project well before the UDCC has been officially in place :)</p>
+<ul>
+<li>More background can be found in the <a href="https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step">news item on the UU intranet</a></li>
+<li>The persistent and public version of the guide is <a href="https://doi.org/10.5281/zenodo.13990169">on Zenodo</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</guid>
   <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
