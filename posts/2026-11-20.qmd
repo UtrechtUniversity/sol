@@ -3,7 +3,7 @@ title: "Data sovereignty, Open Science, and Mistrust "
 description: |
 
 author: Jacques Flores
-date: 20 June 2026
+date: 20 November 2026
 ---
 Earlier in October I attended the EOSC Symposium in Florence where the words “data sovereignty” echoed across the old-fashioned Palazzo dei Congressi walls in almost every talk. The words feel proudful and sound triumphant. They inspire an idea of independence and control over our own data. By the 4th or 5th time I heard data sovereignty mentioned, it occurred to me, as the audience clapped, that the sudden need for sovereignty could actually be a symptom of current events that have so deeply wounded global trust. 
 
