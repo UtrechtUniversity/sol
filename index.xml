@@ -9,7 +9,7 @@
 <link>https://utrechtuniversity.github.io/sol/</link>
 <atom:link href="https://utrechtuniversity.github.io/sol/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sol is a microblog maintained by Research Data Services at Utrecht University Library</description>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Mon, 28 Sep 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>UDCC Forum Year 2 in 10 Flyers</title>
@@ -135,6 +135,35 @@
  ]]></description>
   <guid>https://utrechtuniversity.github.io/sol/posts/2026-09-28.html</guid>
   <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Data sovereignty, Open Science, and Mistrust</title>
+  <dc:creator>Jacques Flores</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2026-11-20.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Earlier in October I attended the EOSC Symposium in Florence where the words “data sovereignty” echoed across the old-fashioned Palazzo dei Congressi walls in almost every talk. The words feel proudful and sound triumphant. They inspire an idea of independence and control over our own data. By the 4th or 5th time I heard data sovereignty mentioned, it occurred to me, as the audience clapped, that the sudden need for sovereignty could actually be a symptom of current events that have so deeply wounded global trust.</p>
+<p>Data sovereignty is not a new concept, insofar as countries have sought to secure their data from illicit access since the inception of the digital era. The need for cybersecurity alone is, however, not enough to describe what is covered by data sovereignty.</p>
+<p>The need for governance and/or legislation is also not new. The European Union has since the mid 90’s brought directive after directive over how diverse kinds of data ought to be handled or governed. The Electronic Health Data Space regulation is one of the latest examples. Yet, I would argue that cybersecurity, governance and legislation (over data) still fall short of a full description of what is meant by data sovereignty. For example, by most measures our use of Microsoft Teams within Utrecht University meets all cybersecurity standards and abides by all regulations, and yet we often use it as an example of our lack of data sovereignty.</p>
+<p>To be truly sovereign over data you must also control and retain the ability to make decisions over the data throughout the entirety of its workflow. This means going beyond contracts and laws. We must also consider the ownership and control of the IT infrastructures where the bits and bytes reside at any point through its lifecycle. For example, we must consider how international IT infrastructures that hold our data will react to its own national petitions and political demands.</p>
+<p>My aim here is not to provide a full definition of data sovereignty, but rather to reflect how our need for it may be a derivative of global mistrust.</p>
+<p>It is something we need but it is not necessarily something we would want if trust were overabundant.</p>
+<p>The need for data sovereignty increases byte by byte with every bit of trust we lose.</p>
+<p>It reminds me of when I moved to Canada as a teenager and saw all these houses with yards completely open. Some had wooden fences that you could hop and many of them didn’t even bother to have a door and even if there was a door, they were hardly locked. Although this was completely common in Canada, in Peru, where I grew up, you would not find a single house that wasn’t completely locked in, with barred windows and yards walled in with cement and heavy oak doors. Mind you, I lived on the outskirts of metropolitan Lima, in a relatively quiet and safe neighborhood.</p>
+<p>I remember pondering as to why this was so, yet the answer was quite simple: I now lived in a community where trust was the norm.</p>
+<p>Data sovereignty is no different. We’ve been advocating for openness, for transparency, for collaboration and for inclusion under the umbrella of Open Science, but the latest political turmoil, the unfettered advancements in technologies, the scare tactics of the media, have at the same time made the world less trustworthy.</p>
+<p>Therefore, I don’t believe that data sovereignty ought to be a goal in itself. Taken too far, we risk ending up with barred data silos, complex accessibility protocols and limited use and access to data. Pleading too hard for data sovereignty, given the ease by which it is differentially interpreted given the context, can be a setback for Open Science rather than a facilitator.</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2026-11-20.html</guid>
+  <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Utrecht University Library at Oxford’s Forum for Open Scholarship</title>
@@ -395,6 +424,46 @@
   <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Creating the self-reflection guide big data at Humanities</title>
+  <dc:creator>Dorien Huijser</dc:creator>
+  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
+<section id="the-process" class="level2">
+<h2 class="anchored" data-anchor-id="the-process">The process</h2>
+<p>For about a year, we had a meeting once or twice a month to discuss the form, content and “status” of such a protocol. We ended up with the idea to create a self-reflection guide. The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic. If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. Note that this is only the case when there is no direct contact whatsoever with the people whose data are used (“data subjects”), or when the data cannot be linked back directly to a specific person.</p>
+</section>
+<section id="what-is-big-data-research" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-big-data-research">What is big data research?</h2>
+<p>A question discussed thoroughly in the working group: what do we mean with big data research? It is a very generic term which needed to be made more concrete. Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants? After taking a lot of questions into consideration, the decision was made to both make the term more specific (“Human-related big data research”), as well as to provide clear definitions in the guide itself. The following aspects are considered to fall within the scope of the guide:</p>
+<ul>
+<li>big data: data already published or collected elsewhere in which direct contact with the “data subject” is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.</li>
+<li>contactless research: research in which there is no direct contact with data subjects.</li>
+<li>human-related data: research in which data from people is collected or used. This can be both personal or anonymous data.</li>
+</ul>
+</section>
+<section id="the-published-guide" class="level2">
+<h2 class="anchored" data-anchor-id="the-published-guide">The published guide</h2>
+<p>After some time, the guide has now been published and it now has a formal status within the Humanities faculty. It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. The nice thing is that references are made to general information on the <a href="https://uu.nl/rdm">RDM website</a> and the <a href="https://uu.nl/privacyhandbook">Data Privacy Handbook</a> wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations. In that sense, it was a great UDCC project well before the UDCC has been officially in place :)</p>
+<ul>
+<li>More background can be found in the <a href="https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step">news item on the UU intranet</a></li>
+<li>The persistent and public version of the guide is <a href="https://doi.org/10.5281/zenodo.13990169">on Zenodo</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</guid>
+  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>UU - TU Delft meet-up</title>
   <dc:creator>Dorien Huijser</dc:creator>
   <link>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</link>
@@ -464,46 +533,6 @@
 
  ]]></description>
   <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-14-tu-delft-meetup.html</guid>
-  <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Creating the self-reflection guide big data at Humanities</title>
-  <dc:creator>Dorien Huijser</dc:creator>
-  <link>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>In November 2022, the Humanities Faculty Ethics Committee (FETC-H) approached me by email. Ted Sanders, vice dean research and impact at the faculty had started a working group “Big data and ethical review”, with the aim of creating a protocol to clarify this topic for researchers. Although this protocol was meant for Humanities researchers, the then current members of the working group found it important to involve someone from central RDM to give the university-wide perspective. That someone ended up being me!</p>
-<section id="the-process" class="level2">
-<h2 class="anchored" data-anchor-id="the-process">The process</h2>
-<p>For about a year, we had a meeting once or twice a month to discuss the form, content and “status” of such a protocol. We ended up with the idea to create a self-reflection guide. The guide would contain steps to check all ethical, privacy and data management aspects of big data research, including links to information elsewhere and who to contact with questions about each topic. If critically used, researchers at Humanities do not have to obtain ethical approval anymore, because they will have done it themselves. Note that this is only the case when there is no direct contact whatsoever with the people whose data are used (“data subjects”), or when the data cannot be linked back directly to a specific person.</p>
-</section>
-<section id="what-is-big-data-research" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-big-data-research">What is big data research?</h2>
-<p>A question discussed thoroughly in the working group: what do we mean with big data research? It is a very generic term which needed to be made more concrete. Is it everything collected via webscraping? All social media research? Questionnaire data with 1000s of participants? After taking a lot of questions into consideration, the decision was made to both make the term more specific (“Human-related big data research”), as well as to provide clear definitions in the guide itself. The following aspects are considered to fall within the scope of the guide:</p>
-<ul>
-<li>big data: data already published or collected elsewhere in which direct contact with the “data subject” is not reasonably possible. Examples are data from mobile phones, smart devices, social media, transactional data or sensors.</li>
-<li>contactless research: research in which there is no direct contact with data subjects.</li>
-<li>human-related data: research in which data from people is collected or used. This can be both personal or anonymous data.</li>
-</ul>
-</section>
-<section id="the-published-guide" class="level2">
-<h2 class="anchored" data-anchor-id="the-published-guide">The published guide</h2>
-<p>After some time, the guide has now been published and it now has a formal status within the Humanities faculty. It contains sections on responsible collection of data, privacy, ethics, data management, data integrity, etc. The nice thing is that references are made to general information on the <a href="https://uu.nl/rdm">RDM website</a> and the <a href="https://uu.nl/privacyhandbook">Data Privacy Handbook</a> wherever possible, but also to central facilities like Information and Knowledge security and faculty regulations. In that sense, it was a great UDCC project well before the UDCC has been officially in place :)</p>
-<ul>
-<li>More background can be found in the <a href="https://intranet.uu.nl/en/news/announcements/conducting-human-related-big-data-research-this-guide-will-help-you-step-by-step">news item on the UU intranet</a></li>
-<li>The persistent and public version of the guide is <a href="https://doi.org/10.5281/zenodo.13990169">on Zenodo</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>https://utrechtuniversity.github.io/sol/posts/2024-10-15-big-data-research-guide.html</guid>
   <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
