@@ -1,0 +1,28 @@
+---
+title: "Data sovereignty, Open Science, and Mistrust "
+description: |
+
+author: Jacques Flores
+date: 20 June 2026
+---
+Earlier in October I attended the EOSC Symposium in Florence where the words “data sovereignty” echoed across the old-fashioned Palazzo dei Congressi walls in almost every talk. The words feel proudful and sound triumphant. They inspire an idea of independence and control over our own data. By the 4th or 5th time I heard data sovereignty mentioned, it occurred to me, as the audience clapped, that the sudden need for sovereignty could actually be a symptom of current events that have so deeply wounded global trust. 
+
+Data sovereignty is not a new concept, insofar as countries have sought to secure their data from illicit access since the inception of the digital era. The need for cybersecurity alone is, however, not enough to describe what is covered by data sovereignty. 
+
+The need for governance and/or legislation is also not new. The European Union has since the mid 90’s brought directive after directive over how diverse kinds of data ought to be handled or governed. The Electronic Health Data Space regulation is one of the latest examples. Yet, I would argue that cybersecurity, governance and legislation (over data) still fall short of a full description of what is meant by data sovereignty. For example, by most measures our use of Microsoft Teams within Utrecht University meets all cybersecurity standards and abides by all regulations, and yet we often use it as an example of our lack of data sovereignty. 
+
+To be truly sovereign over data you must also control and retain the ability to make decisions over the data throughout the entirety of its workflow. This means going beyond contracts and laws. We must also consider the ownership and control of the IT infrastructures where the bits and bytes reside at any point through its lifecycle. For example, we must consider how international IT infrastructures that hold our data will react to its own national petitions and political demands. 
+
+My aim here is not to provide a full definition of data sovereignty, but rather to reflect how our need for it may be a derivative of global mistrust.  
+
+It is something we need but it is not necessarily something we would want if trust were overabundant. 
+
+The need for data sovereignty increases byte by byte with every bit of trust we lose. 
+
+It reminds me of when I moved to Canada as a teenager and saw all these houses with yards completely open. Some had wooden fences that you could hop and many of them didn’t even bother to have a door and even if there was a door, they were hardly locked. Although this was completely common in Canada, in Peru, where I grew up, you would not find a single house that wasn’t completely locked in, with barred windows and yards walled in with cement and heavy oak doors. Mind you, I lived on the outskirts of metropolitan Lima, in a relatively quiet and safe neighborhood. 
+
+I remember pondering as to why this was so, yet the answer was quite simple: I now lived in a community where trust was the norm.  
+
+Data sovereignty is no different. We’ve been advocating for openness, for transparency, for collaboration and for inclusion under the umbrella of Open Science, but the latest political turmoil, the unfettered advancements in technologies, the scare tactics of the media, have at the same time made the world less trustworthy. 
+
+Therefore, I don’t believe that data sovereignty ought to be a goal in itself. Taken too far, we risk ending up with barred data silos, complex accessibility protocols and limited use and access to data. Pleading too hard for data sovereignty, given the ease by which it is differentially interpreted given the context, can be a setback for Open Science rather than a facilitator. 
